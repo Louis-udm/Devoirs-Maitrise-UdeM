@@ -1,0 +1,87 @@
+\documentclass[french]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[letterpaper, portrait, margin=2cm]{geometry}
+\usepackage{babel}
+\usepackage{mathtools, bm}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{dsfont}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+
+\begin{document}
+	
+	\begin{algorithm}
+		\caption{Apripri(T)}
+		\label{alg1}
+		\begin{algorithmic}
+			\STATE $C_1 \longleftarrow init\_scan(T);$
+			\STATE $L1 \longleftarrow \{l|l\in C_1, l.count/n \geq MinSupport\};$
+			\FOR{$(k=2;L_{K-1}\neq\o;k++)$}
+			\STATE$C_k \longleftarrow candidate\_gen(L_{k-1});$
+			\FOR{$transactions \ t \in T$}
+			\FOR{$ candidates \ c \in C_k$}
+			\IF{$c \subseteq t$}
+			\STATE $c.count++;$
+			\ENDIF
+			\ENDFOR
+			\ENDFOR
+			\STATE $L_k \longleftarrow \{ c \in C_k | c.count/n \geq MinSupport \};$
+			\ENDFOR
+			\RETURN $L \longleftarrow \bigcup_k L_k;$
+		\end{algorithmic}
+	\end{algorithm}
+
+
+\begin{algorithm}
+	\caption{$candidate\_gen(L_{k-1})$}
+	\label{alg2}
+	\begin{algorithmic}
+		\STATE $C_k \longleftarrow \o ;$
+		\FOR {($l_p \in L_{k-1};1\leq p\leq k-1; p++ $)}
+		\FOR {($l_q \in L_{k-1};p< q\leq k-1; q++ $)}
+		\STATE $ l_p: \ \{ i_1,..,i_{k-2} , i_{k-1} \}  $
+		\STATE $ l_q: \ \{ i_1,..,i_{k-2} , i'_{k-1} \} $
+		\STATE $c \longleftarrow \{ i_1,...,i_{k-2},i_{k-1},i'_{k-1} \}; \qquad // étape\  join$
+		\STATE $C_k \longleftarrow C_k \cup \{c\} $
+		\FOR {$each\ s=subset(k-1)\ of\ c $}
+		\IF {$s \notin L_{k-1}$}
+        \STATE $delete\ c\ from\ C_k; \qquad // étape\  élaguer$
+        \STATE BREAK;
+		\ENDIF
+		\ENDFOR
+		\ENDFOR
+		\ENDFOR
+		\RETURN $C_k;$
+	\end{algorithmic}
+\end{algorithm}
+
+\begin{figure}[h]
+	\rule{\linewidth}{.1pt}
+	Algorithm $candidate\_gen(L_{k-1})$
+	\begin{algorithmic}[1]
+		\STATE $C_k \longleftarrow \o ;$
+		\FOR {($l_p \in L_{k-1};1\leq p\leq k-1; p++ $)}
+			\FOR {($l_q \in L_{k-1};p< q\leq k-1; q++ $)}
+				\STATE $ l_p: \ \{ i_1,..,i_{k-2} , i_{k-1} \}  $
+				\STATE $ l_q: \ \{ i_1,..,i_{k-2} , i'_{k-1} \} $
+				\STATE $c \longleftarrow \{ i_1,...,i_{k-2},i_{k-1},i'_{k-1} \}; \qquad // étape\  join$
+				\STATE $C_k \longleftarrow C_k \cup \{c\} $
+				\FOR {$each\ s=subset(k-1)\ of\ c $}
+					\IF {$s \notin L_{k-1}$}
+						\STATE $delete\ c\ from\ C_k; \qquad // étape\  élaguer$
+						\STATE BREAK;
+					\ENDIF
+				\ENDFOR
+			\ENDFOR
+		\ENDFOR
+		\RETURN $C_k;$
+	\end{algorithmic}
+	\rule{\linewidth}{.1pt}
+	\caption{Algorithm $candidate\_gen(L_{k-1})$.}
+\end{figure}
+
+
+\end{document}
