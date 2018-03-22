@@ -1,0 +1,21 @@
+
+
+
+
+
+train_lemm_tacy_doc:  Doc(396915 tokens; "oxy-fuel combustion be the process of burn a fu...")
+size of train lemm 2grams bag: 179527
+size of train lemm 1grams bag: 26966
+train_surf_tacy_doc:  Doc(396912 tokens; "oxy-fuel combustion is the process of burning a...")
+size of train surf 2grams bag: 193679
+size of train surf 1grams bag: 31221
+total sentence of train lemm: 16728
+total sentence of train surf: 16728
+test_lemm_tacy_doc:  Doc(152777 tokens; "shorty s lunch be a washington , pennsylvania-b...")
+size of test lemm 1grams bag: 15302
+test_surf_tacy_doc:  Doc(152778 tokens; "shorty s lunch is a washington , pennsylvania-b...")
+size of test surf 1grams bag: 17515
+total sentence of test lemm: 6750
+total sentence of test surf: 6750
+
+

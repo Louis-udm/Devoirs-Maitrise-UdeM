@@ -1,0 +1,148 @@
+
+max_lemm_sent: 112
+max_surf_sent: 112
+train_lemm_vectors, len:  16728 [1]: [22432 24286 17292  6339 17639  2262  3816 17417 11734    10 10480  6579
+  3816 20409    10  2632 11927 10035 24150  3816 19220    38]
+since the nitrogen component of air be not heat , fuel consumption be reduce , and higher flame temperature be possible .
+test_lemm_vectors, len:  6750 [2]: [13270 11660 25051 14919    10 12691 24286 15306  9606 17731 26256  5684
+ 23350 12647 26132    10  3114 26230  3114 12647  5128    38]
+it have two location , include the main facility on west chestnut street in washington , as well as in canton .
+
+
+--Model HMM predicteur predict on test data:---
+/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/hmmlearn/hmm.py:405: RuntimeWarning: divide by zero encountered in log
+  return np.log(self.emissionprob_)[:, np.concatenate(X)].T
+/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/hmmlearn/base.py:451: RuntimeWarning: divide by zero encountered in log
+  n_samples, n_components, np.log(self.startprob_),
+/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/hmmlearn/base.py:452: RuntimeWarning: divide by zero encountered in log
+  np.log(self.transmat_), framelogprob)
+/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/hmmlearn/base.py:452: RuntimeWarning: invalid value encountered in log
+  np.log(self.transmat_), framelogprob)
+-- No.  0
+shorty s lunch be a washington , pennsylvania-based hot dog lunch counter .
+shorty s lunch is a washington , pennsylvania-based hot dog lunch counter .
+we sizwe , is a washington , pennsylvania ) . hot dogs , filed .
+-- No.  1
+a `` local landmark , '' shorty s have be own by the alexas family since the 1930 .
+a `` local landmark , '' shorty s has been owned by the alexas family since the 1930s .
+a `` married that rewards '' . these poems are owned by raphael picard family of the 1930s .
+-- No.  2
+it have two location , include the main facility on west chestnut street in washington , as well as in canton .
+it has two locations , including the main facility on west chestnut street in washington , as well as in canton .
+it has a location , including the main , on west chestnut and in washington , as well as of canton .
+-- No.  3
+the main restaurant boast old wooden booth , a dining counter , as well a large storefront , show the grill to pedestrian .
+the main restaurant boasts old wooden booths , a dining counter , as well a large storefront , showing the grill to pedestrians .
+the shows a rich , to school , oklahoma ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+-- No.  4
+the trademark menu item be a albert s frank with chili , mustard and onion , as well as fries with gravy .
+the trademark menu item is an albert s frank with chili , mustard and onions , as well as fries with gravy .
+the company also concerned with cord ii ) ( 124 chili and motorola , onions , as xtreme pro fries , gravy (
+-- No.  5
+the food be inexpensive , with the hot beef dinner be the most expensive menu item at $ 5 .
+the food is inexpensive , with the hot beef dinner being the most expensive menu item at $ 5 .
+the food is celebratory , with the hot ! ! ! ! ! ! ! ! ! ! ! !
+-- No.  6
+shorty s main location sell 600-700 hot dog a day .
+shorty s main location sells 600-700 hot dogs a day .
+sen s campus to sell 600 students . hot dogs a day .
+-- No.  7
+the chili be especially favor by customer .
+the chili is especially favored by customers .
+dr chili and especially with a customer or
+-- No.  8
+the secret recipe take 4 hour to prepare each 7 to 10 gallon batch .
+the secret recipe takes 4 hours to prepare each 7 to 10 gallon batch .
+the secrets , took 4 hours to write a 7 to 10 ! ! !
+-- No.  9
+american soldier serve abroad in england , germany , japan , and vietnam have all receive shipment of shorty s chili in the mail from they mother .
+american soldiers serving abroad in england , germany , japan , and vietnam have all received shipments of shorty s chili in the mail from their mothers .
+american soldiers serving abroad in england , germany , japan , and vietnam had left for shipment of the russo chili and a mail , their mother .
+-- No.  10
+the favored supplier of the hot dog have change over time from location in germantown , johnstown , and green valley packing in taylorstown .
+the favored supplier of the hot dogs has changed over time from locations in germantown , johnstown , and green valley packing in taylorstown .
+oklahoma ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+-- No.  11
+the pittsburgh post-gazette say that `` the shorty s name command a customer loyalty many business only dream of develop '' .
+the pittsburgh post-gazette says that `` the shorty s name commands a customer loyalty many businesses only dream of developing '' .
+oklahoma ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+-- No.  12
+that customer loyalty extend to former resident , who make a point to return to shorty s when they be in town , especially during the holiday .
+that customer loyalty extends to former residents , who make a point to return to shorty s when they re in town , especially during the holidays .
+they wait loyalty to the western australia , who made a point to return to feature ended when they were rough edges , where during the holiday .
+-- No.  13
+the observer-reporter describe shorty s as have a `` local brand recognition that a lot of company can only dream about '' and that a book could be write on the restaurant .
+the observer-reporter describes shorty s as having a `` local brand recognition that a lot of companies can only dream about '' and that a book could be written on the restaurant .
+the life , an `` pdk s condition has a woman standing building their adopted a lot of companies from the mysterious woman '' and that an animal have been written on the restaurants .
+-- No.  14
+a associate professor of entrepreneurship at the nearby washington & jefferson college say that the customer loyalty and business model represent `` almost a case study for a franchise class '' .
+an associate professor of entrepreneurship at the nearby washington & jefferson college said that the customer loyalty and business model represents `` almost a case study for a franchising class '' .
+an associate professor of international raceway and a washington , jefferson , saying that they wait loyalties towards the structure represents an almost a combined par for the franchise : '' .
+-- No.  15
+a common belief among customer be that the secret to shorty s reside within the grill , with many believe that it remain the original from the 1930 .
+a common belief among customers is that the secret to shorty s resides within the grill , with many believing that it remains the original from the 1930s .
+a common , and call is that the secret to midland s claims that mr grill . there are believed that it remained the original surname guruvara cave .
+-- No.  16
+however , when the original grilltop malfunction in the 1980s , the custom craft steel replacement be install under the cover of night , no one notice .
+however , when the original grilltop malfunctioned in the 1980s , the custom crafted steel replacement was installed under the cover of night , no one noticed .
+however , when the originals are two in the 1980s , the custom race , aceh was installed . the distributaries of night , no one by the
+-- No.  17
+documentarian rick sebak regret not be able to profile shorty s in he hour-long documentary on hot dog shop , a hot dog program , say that `` there be no other place like it .
+documentarian rick sebak regretted not being able to profile shorty s in his hour-long documentary on hot dog shops , a hot dog program , saying that `` there s no other place like it .
+`` rick '' regret and was able to impregnated compound . in his honor of the line . hot dogs a , a hot dogs they are said that `` there are no other places like charge .
+-- No.  18
+they have not change a thing in there since the place openend in the late 1930 .
+they have n't changed a thing in there since the place openend in the late 1930s .
+they had not have a thing where there are the place . in the late 1930s .
+-- No.  19
+that be what be great about shorty s .
+that s what s great about shorty s .
+that is what is more about 50 38 .
+-- No.  20
+it have a high funk factor '' .
+it has a high funk factor '' .
+it has a high funk pdgfrb ) .
+-- No.  21
+photograph of shorty s have be sell as fundraiser for the citizens library in washington .
+photographs of shorty s have been sold as fundraisers for the citizens library in washington .
+collection of nagappattinam district has been sold to prepare for the citizens . in washington .
+-- No.  22
+in 1993 , shorty s be recognize by the observer-reporter for raise fund for the free care fund at children s hospital of pittsburgh .
+in 1993 , shorty s was recognized by the observer-reporter for raising funds for the free care fund at children s hospital of pittsburgh .
+in 1993 , he has been recognized by the life , an all raise funds for the possession . their own children s hospital in pittsburgh s
+-- No.  23
+the shop have claim a wide variety of clientele , range from judge to tex ritter .
+the shop has claims a wide variety of clientele , ranging from judges to tex ritter .
+the residents had claimed a wide variety or perished under ranged from 2004 s tex , the
+-- No.  24
+during the 2006 pennsylvania gubernatorial election , republican candidate lynn swann use shorty s as a campaign stop .
+during the 2006 pennsylvania gubernatorial election , republican candidate lynn swann used shorty s as a campaign stop .
+during the 2006 to gubernatorial election , the u.s lynn of weaponry . such as a campaign stops a
+-- No.  25
+in 2003 , plan for the crossroads project , a redevelopment effort in downtown washington , pennsylvania , reveal that developer , millcraft industries , and the washington redevelopment authority intend to use several `` blighted '' city block to build a private business development , include outlet similar to grove city premium outlet , loft and apartment design to attract student from washington & jefferson college , and a 1,200 space parking garage .
+in 2003 , plans for the crossroads project , a redevelopment effort in downtown washington , pennsylvania , revealed that developer , millcraft industries , and the washington redevelopment authority intended to use several `` blighted '' city blocks to build a private business development , including outlets similar to grove city premium outlets , lofts and apartments designed to attract students from washington & jefferson college , and a 1,200 space parking garage .
+in 2003 , plans for responsible ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+-- No.  26
+all tell , the project would have be as ambitious as the nearby southpointe development .
+all told , the project would have been as ambitious as the nearby southpointe development .
+they tell , the project would have been the novel as the nearby . development .
+-- No.  27
+the $ 100 million project would have require the demolition of several building through eminent domain , include the building housing shorty s original 34 chestnut street location , and would have significant tax break through a tax increment financing program .
+the $ 100 million project would have required the demolition of several buildings through eminent domain , including the building housing shorty s original 34 chestnut street location , and would have significant tax breaks through a tax increment financing program .
+the $ 100 million , would have to the demolition of several others . the domain , including the building was accepted model sold two chestnut and filming , and would had significant class and through a tax . development program .
+-- No.  28
+in spite of offer by the developer to assist with move cost , the alexas family refuse to move , gather 23,860 signature in a petition to keep they current location , a amazing number in a city with a population of 16,000 .
+in spite of offers by the developer to assist with moving costs , the alexas family refused to move , gathering 23,860 signatures in a petition to keep their current location , an amazing number in a city with a population of 16,000 .
+in spite of up by the developer to assist with the cost of the bodyshells were refused to move , the ace program in a petition was kept his current location , a form . in a city with a population of 110 finish
+-- No.  29
+they receive support of local official , include the town s mayor .
+they received support of local officials , including the town s mayor .
+they received # 12 sports officials , including the town s city .
+-- No.  30
+the effort to keep shorty s open in the face of pressure for developer have inspire other small business owner , include shelley s pike inn in houston , pennsylvania .
+the efforts to keep shorty s open in the face of pressure for developers has inspired other small business owners , including shelley s pike inn in houston , pennsylvania .
+the efforts to keep it was opened in the poor economic pressure and developer to inspire others . the owner , including the charts ! ! ! ! ! ! !
+
+
+Accuracy on HMM predicteur: 317 / 760 = 0.41710526315789476
+

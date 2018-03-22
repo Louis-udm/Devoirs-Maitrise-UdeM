@@ -1,0 +1,22 @@
+-----bigrammes before parse------:
+
+Accuracy raw on test data: 138452 / 161272 = 0.8584999255915472
+Accuracy of bi-gramms predicteur on test data: 137475 / 154050 = 0.896571929380624
+
+
+-------bigrammes after parse------:
+
+sujet== 'nsubj' and 'NN' then verb -> singular
+Accuracy of parse predicteur on test data: 137475 / 154050 = 0.9005428929533621
+
+
+sujet== 'nsubj' and 'NNS' then verb -> plural
+
+Accuracy of parse predicteur on test data: 137475 / 154050 = 0.900769652424492
+The parse took a total of 1.171 minutes to do training and prediction.
+
+
+in 1900-> was were
+
+Accuracy of parse predicteur on test data:  0.9007517964611709
+The parse  took a total of 1.183 minutes to do training and prediction.

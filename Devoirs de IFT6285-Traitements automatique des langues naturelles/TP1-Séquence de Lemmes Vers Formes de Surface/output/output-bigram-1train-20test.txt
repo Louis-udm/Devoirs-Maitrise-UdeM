@@ -1,0 +1,177 @@
+C:\Users\Thomas\Anaconda3\python.exe C:/Users/Thomas/Documents/UDEM/ift6285-tp1/model-bi-gramms.py
+15-03-2018 16:36:04 Loading data...
+15-03-2018 16:45:21 Training model...
+Tokens of train_lemm_tacy_doc:  401177
+Tokens of train_surf_tacy_doc:  401177
+Tokens of test_lemm_tacy_doc:  5858666
+Tokens of test_surf_tacy_doc:  5858653
+Warning: the numbre of tokens of lemme and surfaceis on test not equal !!!!!!
+total sentence of train surf: 18234
+total sentence of train lemm: 18234
+total sentence of test surf: 269321
+total sentence of test lemm: 269321
+size of train lemm 2grams bag: 177551
+size of train lemm 1grams bag: 25897
+size of train surf 2grams bag: 191779
+size of train surf 1grams bag: 30139
+size of test lemm 1grams bag: 137537
+size of test surf 1grams bag: 147892
+<class 'dict'> 177551
+<class 'dict'> 177551
+him .  2
+. the 3031
+oxy - fuel combustion be the process of burn a fuel use pure oxygen instead of air as the primary oxidant .
+since the nitrogen component of air be not heat , fuel consumption be reduce , and higher flame temperature be possible .
+historically , the primary use of oxy - fuel combustion have be in welding and cutting of metal , especially steel , since oxy - fuel allow for higher flame temperature than can be achieve with a air - fuel flame .
+there be currently research be do in firing fossil - fueled power plant with a oxygen - enriched gas mix instead of air .
+almost all of the nitrogen be remove from input air , yield a stream that be approximately 95 % oxygen .
+fire with pure oxygen would result in too high a flame temperature , so the mixture be dilute by mix with recycled flue gas , or stage combustion .
+the recycled flue gas can also be use to carry fuel into the boiler and ensure adequate convective heat transfer to all boiler area .
+oxy - fuel combustion produce approximately 75 % less flue gas than air fuel combustion and produce exhaust consist primarily of co 2 and h 2 o ( see figure ) .
+the justification for use oxy - fuel be to produce a co 2 rich flue gas ready for sequestration .
+economically speak this method cost more than a traditional air - fired plant .
+the main problem have be separate oxygen from the air .
+are be  1138
+(you be)  15
+(he go)  16
+p(be|you)= 0.11029411764705882
+p(cat|a)= 0.000329453107840984
+p(am|i)= 0.03773584905660377
+p(be-o|are-s)= 1.0
+p(.-o|.-s)= 1.0
+test of Accuracy raw: 358025 / 419315 = 0.8538330372154586
+test of Accuracy spacy: 339887 / 419411 = 0.8103912391425118
+size of bi-grammes:  177505
+you be ->  are
+--Model Bi-gramms predicteur predict on test data:---
+-- NO. 0
+facemelter be the twelfth studio album by american hard rock / heavy metal band y & t , which be release on may 21 , 2010 through the frontiers records label .
+facemelter is the twelfth studio album by american hard rock / heavy metal band y & t , which was released on may 21 , 2010 through the frontiers records label .
+facemelter be the twelfth studio album by american hard rock / heavy metal band y & t , which is released on may 21 , 2010 through the frontiers records label .
+-- NO. 1
+it be they first album since the release of endangered species in 1997 , the longest gap to date between two y & t studio album .
+it is their first album since the release of endangered species in 1997 , the longest gap to date between two y & t studio albums .
+it is their first album since the release of endangered species in 1997 , the longest gap to date between two y & t studio album .
+-- NO. 2
+this be the final y & t album to feature bassist phil kennemore , who die of cancer the following year .
+this is the final y & t album to feature bassist phil kennemore , who died of cancer the following year .
+this is the final y & t album to feature bassist phil kennemore , who died of cancer the following year .
+-- NO. 3
+all lyric and music write by y & t .
+all lyrics and music written by y & t .
+all lyric and music write by y & t .
+-- NO. 4
+farzad hosseinkhani be a iranian footballer who play for mes kerman f .
+farzad hosseinkhani is an iranian footballer who plays for mes kerman f .
+farzad hosseinkhani be a iranian footballer who played for mes kerman f .
+-- NO. 5
+c .
+c .
+c .
+-- NO. 6
+in the ipl .
+in the ipl .
+in the ipl .
+-- NO. 7
+hosseinkhani have play for mes kerman f .
+hosseinkhani has played for mes kerman f .
+hosseinkhani have played for mes kerman f .
+-- NO. 8
+c .
+c .
+c .
+-- NO. 9
+since 1998 .
+since 1998 .
+since 1998 .
+-- NO. 10
+tiina piia susanna kankaanp ( bear august 16 , 1976 in seinjoki ) be a retired female discus thrower from finland .
+tiina piia susanna kankaanp ( born august 16 , 1976 in seinjoki ) is a retired female discus thrower from finland .
+tiina piia susanna kankaanp ( born august 16 , 1976 in seinjoki ) is a retired female discus thrower from finland .
+-- NO. 11
+she set she personal best ( 61 .
+she set her personal best ( 61 .
+she set she personal best ( 61 .
+-- NO. 12
+04 metre ) on july 11 , 1999 at a meet in jalasjrvi .
+04 metres ) on july 11 , 1999 at a meet in jalasjrvi .
+04 metre ) on july 11 , 1999 at a meet in jalasjrvi .
+-- NO. 13
+camp onyahsa be a ymca summer camp located on lake chautauqua in dewittville , new york , and one of the oldest summer camp in the u .
+camp onyahsa is a ymca summer camp located on lake chautauqua in dewittville , new york , and one of the oldest summer camps in the u .
+camp onyahsa be a ymca summer camp located on lake chautauqua in dewittville , new york , and one of the oldest summer camp in the u .
+-- NO. 14
+s .
+s .
+s .
+-- NO. 15
+the word onyahsa be native american in origin meaning hello and goodbye .
+the word onyahsa is native american in origin meaning hello and goodbye .
+the word onyahsa be native american in origin meaning hello and goodbye .
+-- NO. 16
+it be establish in 1898 by the young mens christian association of jamestown , new york and serve boy from this grow industrial town as well as male from westfield , ny and buffalo ny during its first decade .
+it was established in 1898 by the young mens christian association of jamestown , new york and served boys from this growing industrial town as well as males from westfield , ny and buffalo ny during its first decades .
+it is established in 1898 by the young mens christian association of jamestown , new york and served boys from this grow industrial town as well as male from westfield , ny and buffalo ny during its first decade .
+-- NO. 17
+in 1924 , the camp move from rent acreage near cheney s point , on chautauqua lake to dewittville , ny .
+in 1924 , the camp moved from rented acreage near cheney s point , on chautauqua lake to dewittville , ny .
+in 1924 , the camp move from rent acreage near cheney s point , on chautauqua lake to dewittville , ny .
+-- NO. 18
+the property be purchase for $ 12 , 000 from fund generate through the jamestown ymca s capital campaign in 1925 .
+the property was purchased for $ 12 , 000 from funds generated through the jamestown ymca s capital campaign in 1925 .
+the property were purchased for $ 12 , 000 from fund generate through the jamestown ymca s capital campaign in 1925 .
+-- NO. 19
+at this time , roy a .
+at this time , roy a .
+at this time , roy a .
+-- NO. 20
+wagner direct both the summer camp and the boys department of the ymca .
+wagner directed both the summer camp and the boys department of the ymca .
+wagner direct both the summer camp and the boys department of the ymca .
+-- NO. 21
+he lead both program until he resignation in 1946 .
+he led both programs until his resignation in 1946 .
+he led both program until his resignation in 1946 .
+-- NO. 22
+after several short - term director , spiro bello become director in 1962 and direct onyahsa and the jamestown ymca s youth department until he retirement in 1984 .
+after several short - term directors , spiro bello became director in 1962 and directed onyahsa and the jamestown ymca s youth department until his retirement in 1984 .
+after several short - term director , spiro bello become director in 1962 and directed onyahsa and the jamestown ymca s youth department until his retirement in 1984 .
+-- NO. 23
+onyahsa have be home to mostly new york kid but have accommodate kid from all over the we and all over the world .
+onyahsa has been home to mostly new york kids but has accommodated kids from all over the us and all over the world .
+onyahsa have been home to mostly new york kid but has accommodate kid from all over the we and all over the world .
+-- NO. 24
+international kid include kid from spain , france , japan , china , canada , and many other country around the world .
+international kids include kids from spain , france , japan , china , canada , and many other countries around the world .
+international kid include kid from spain , france , japan , china , canada , and many other countries around the world .
+-- NO. 25
+the staff be also very diverse have member from denver , virginia , new york , ohio , pennsylvania , boston , new jersey , maryland , quebec , japan , sweden , and spain .
+the staff is also very diverse having members from denver , virginia , new york , ohio , pennsylvania , boston , new jersey , maryland , quebec , japan , sweden , and spain .
+the staff are also very diverse have member from denver , virginia , new york , ohio , pennsylvania , boston , new jersey , maryland , quebec , japan , sweden , and spain .
+-- NO. 26
+the mess hall have flag from all the country that have camper , or staff be from .
+the mess hall has flags from all the countries that had campers , or staff are from .
+the mess hall have flag from all the country that has camper , or staff are from .
+-- NO. 27
+along with the main camp located on the lake , onyahsa have acquire many acre of forever wild land across the street .
+along with the main camp located on the lake , onyahsa has acquired many acres of forever wild land across the street .
+along with the main camp located on the lake , onyahsa have acquired many acre of forever wild land across the streets .
+-- NO. 28
+along with the traditional overnight camping experience , onyahsa offer many specialty camp , teen camp , light training , and day camp in the wood .
+along with the traditional overnight camping experience , onyahsa offers many specialty camps , teen camp , lit training , and day camp in the woods .
+along with the traditional overnight camping experience , onyahsa offer many specialty camp , teen camp , light training , and days camp in the woods .
+-- NO. 29
+`` quagmire s dad be the 18 th episode of the eighth season of the animated comedy series family guy .
+`` quagmire s dad is the 18 th episode of the eighth season of the animated comedy series family guy .
+`` quagmire s dad be the 18 th episode of the eighth season of the animated comedy series family guy .
+-- NO. 30
+it originally air on fox in the united states on may 9 , 2010 .
+it originally aired on fox in the united states on may 9 , 2010 .
+it originally aired on fox in the united states on may 9 , 2010 .
+Accuracy raw on test data: 5234889 / 6126174 = 0.8545119678285338
+Accuracy of bi-gramms predicteur on test data: 5204821 / 5858653 = 0.8925958288388433
+The Bi-grammes took a total of 24.782 minutes to do training and prediction.
+Accuracy of Parse predicteur on test data: 0.8940193063984961
+The Parse took a total of 7.971 minutes to do training and prediction.
+
+Process finished with exit code 0

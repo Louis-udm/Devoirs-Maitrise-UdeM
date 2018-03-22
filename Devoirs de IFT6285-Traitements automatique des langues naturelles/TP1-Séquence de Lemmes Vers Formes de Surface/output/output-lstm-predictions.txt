@@ -1,0 +1,811 @@
+Number of samples: 8021
+Number of unique input tokens: 131
+Number of unique output tokens: 134
+Max sequence length for inputs: 817
+Max sequence length for outputs: 841
+size of training data: 5021
+size of test data: 3000
+
+duree d'entrainement:2.5h
+
+-------predict train data:
+
+-- No.  0
+Input test sentence: shorty 's lunch be a washington , pennsylvania-based hot dog lunch counter . 
+Decoded test sentence:  hs it was discovered in the film rease . 
+
+-- No.  1
+Input test sentence:  a `` local landmark , '' shorty 's have be own by the alexas family since the 1930 . 
+Decoded test sentence:  a siggle foundation store and south american baseball . 
+
+-- No.  2
+Input test sentence:  it have two location , include the main facility on west chestnut street in washington , as well as in canton . 
+Decoded test sentence:  it has a settlement in the american league with a record of 72 wins and 70 losses . 
+
+-- No.  3
+Input test sentence:  the main restaurant boast old wooden booth , a dining counter , as well a large storefront , show the grill to pedestrian . 
+Decoded test sentence:  the main tailer was a senate of emberom , as a structures and service and in survic , song , the state of the community foundations . 
+
+-- No.  4
+Input test sentence:  the trademark menu item be a albert 's frank with chili , mustard and onion , as well as fries with gravy . 
+Decoded test sentence:  the temple mount , all of the band , and the second to be population of the season . 
+
+-- No.  5
+Input test sentence:  the food be inexpensive , with the hot beef dinner be the most expensive menu item at $ 5 . 
+Decoded test sentence:  the former was released in 1929 , and was also a man and evertan and in the carol , stringul to enders . 
+
+-- No.  6
+Input test sentence:  shorty 's main location sell 600-700 hot dog a day . 
+Decoded test sentence:  shortly after the station , the season , the season , the most of recording and the second game to the season , and the season , the mang college , and and part of the community foundation . 
+
+-- No.  7
+Input test sentence:  the chili be especially favor by customer . 
+Decoded test sentence:  the club is located in the town of again . 
+
+-- No.  8
+Input test sentence:  the secret recipe take 4 hour to prepare each 7 to 10 gallon batch . 
+Decoded test sentence:  the second state a but the rest of the first temple mount , which was a but the commony the south of the called the season , and the season , the manner add the season , and the season , the mang collect of south africa . 
+
+-- No.  9
+Input test sentence:  american soldier serve abroad in england , germany , japan , and vietnam have all receive shipment of shorty 's chili in the mail from they mother . 
+Decoded test sentence:  are is a month monement , the more a single transit of a standard of the manga-pross . 
+
+-- No.  10
+Input test sentence:  the favored supplier of the hot dog have change over time from location in germantown , johnstown , and green valley packing in taylorstown . 
+Decoded test sentence:  the fourth was born in the season , the season , and the season , the most of recording and the second game and were severend in the country . 
+
+-- No.  11
+Input test sentence:  the pittsburgh post-gazette say that `` the shorty 's name command a customer loyalty many business only dream of develop '' . 
+Decoded test sentence:  the palazzo barbaro ( crychlopus ) , also ( docombis shile ) , and kaysom . 
+
+-- No.  12
+Input test sentence:  that customer loyalty extend to former resident , who make a point to return to shorty 's when they be in town , especially during the holiday . 
+Decoded test sentence:  that is natural habitat is subtropical or tropical dry shrubland . 
+
+-- No.  13
+Input test sentence:  the observer-reporter describe shorty 's as have a `` local brand recognition that a lot of company can only dream about '' and that a book could be write on the restaurant . 
+Decoded test sentence:  the born to endane , the southern was a providen and served as a substantive of the cattle devisions of destroy all minished . 
+
+-- No.  14
+Input test sentence:  a associate professor of entrepreneurship at the nearby washington & jefferson college say that the customer loyalty and business model represent `` almost a case study for a franchise class '' . 
+Decoded test sentence:  a started the release of the band 's season , which are not describes and in the area of the community foundation . 
+
+-- No.  15
+Input test sentence:  a common belief among customer be that the secret to shorty 's reside within the grill , with many believe that it remain the original from the 1930 . 
+Decoded test sentence:  a community foundations are a the month moon and several since 1990 , as the central grassair and the season , and the season , the mang collect of south africa . 
+
+-- No.  16
+Input test sentence:  however , when the original grilltop malfunction in the 1980s , the custom craft steel replacement be install under the cover of night , no one notice . 
+Decoded test sentence:  however , he was born in a flowering finished for the community foundations . 
+
+-- No.  17
+Input test sentence:  documentarian rick sebak regret not be able to profile shorty 's in he hour-long documentary on hot dog shop , a hot dog program , say that `` there be no other place like it . 
+Decoded test sentence:  dividan and broadcast of and sen of the centre and the season , the most of recording and the second game and were severend in the country . 
+
+-- No.  18
+Input test sentence:  they have not change a thing in there since the place openend in the late 1930 . 
+Decoded test sentence:  they released a student game , which is a community foundation . 
+
+-- No.  19
+Input test sentence:  that be what be great about shorty 's . 
+Decoded test sentence:  that was not for the reaching and the second to be a club in the settlement . 
+
+-- No.  20
+Input test sentence:  it have a high funk factor '' . 
+Decoded test sentence:  it has a settlement in the american league with a record of 72 wins and 70 losses . 
+
+-- No.  21
+Input test sentence:  photograph of shorty 's have be sell as fundraiser for the citizens library in washington . 
+Decoded test sentence:  population is a settlement in the xanthi regional unit of greece . 
+
+-- No.  22
+Input test sentence:  in 1993 , shorty 's be recognize by the observer-reporter for raise fund for the free care fund at children 's hospital of pittsburgh . 
+Decoded test sentence:  in 1991 , the population of koinise was around 165 inhabitants . 
+
+-- No.  23
+Input test sentence:  the shop have claim a wide variety of clientele , range from judge to tex ritter . 
+Decoded test sentence:  the season has been offende back and the season , the most of the cat gene , the first continuental sunger record as a stence of starries . 
+
+-- No.  24
+Input test sentence:  during the 2006 pennsylvania gubernatorial election , republican candidate lynn swann use shorty 's as a campaign stop . 
+Decoded test sentence:  during the band , and the second to be a club in the studio . 
+
+-- No.  25
+Input test sentence:  in 2003 , plan for the crossroads project , a redevelopment effort in downtown washington , pennsylvania , reveal that developer , millcraft industries , and the washington redevelopment authority intend to use several `` blighted '' city block to build a private business development , include outlet similar to grove city premium outlet , loft and apartment design to attract student from washington & jefferson college , and a 1,200 space parking garage . 
+Decoded test sentence:  in 2001 , the population of killi weth his contanion was around 1944 inhabitants . 
+
+-- No.  26
+Input test sentence:  all tell , the project would have be as ambitious as the nearby southpointe development . 
+Decoded test sentence:  all of the center of the season , the season , the most of recording and and one of the first temple mount . 
+
+-- No.  27
+Input test sentence:  the $ 100 million project would have require the demolition of several building through eminent domain , include the building housing shorty 's original 34 chestnut street location , and would have significant tax break through a tax increment financing program . 
+Decoded test sentence:  the new comes from 1967 to 1999 , as the club was founded in 1994 . 
+
+-- No.  28
+Input test sentence:  in spite of offer by the developer to assist with move cost , the alexas family refuse to move , gather 23,860 signature in a petition to keep they current location , a amazing number in a city with a population of 16,000 . 
+Decoded test sentence:  in the 2008 southern seemates struck , the rest of the centra there was a sent to the season . 
+
+-- No.  29
+Input test sentence:  they receive support of local official , include the town 's mayor . 
+Decoded test sentence:  they released a senio and the season , the season , the most of recording and the second game to the season , and the season , the mang college , and and part of the community foundation . 
+
+-- No.  30
+Input test sentence:  the effort to keep shorty 's open in the face of pressure for developer have inspire other small business owner , include shelley 's pike inn in houston , pennsylvania . 
+Decoded test sentence:  the every accesses are single former community foundations . 
+
+-- No.  31
+Input test sentence:  while the effort to raze shorty 's appear to have stall , the alexas family have begin to expand into other location , to protect themselves from future redevelopment effort . 
+Decoded test sentence:  while age the san france , and the second to be found in the caled with a record of 1978 , and the season , which are not described and and the community foundation . 
+
+-- No.  32
+Input test sentence:  they have pursue a franchise effort to place store in southpointe shopping plaza , downtown canonsburg , and franklin township . 
+Decoded test sentence:  they released a student game , which is a community foundation . 
+
+-- No.  33
+Input test sentence:  the owner of the washington mall inform the alexas brother in late 2004 that they would have to vacate in order for the mall to be turn into a strip shopping center . 
+Decoded test sentence:  the origin arm based in 1991 and has been recorded at the company of the community foundation . 
+
+-- No.  34
+Input test sentence:  to replace this store , the alexas family build another location in canton township . 
+Decoded test sentence:  to the end of the season , the season , the most of recording and the second game to the season , and the season , the most of recording and the second game and were severend in the country . 
+
+-- No.  35
+Input test sentence:  saint mary 's cathedral , better know as lugo cathedral , be a roman catholic cathedral and basilica in lugo , galicia , north-western spain , build start from the early 12th century . 
+Decoded test sentence:  sand of an explose the reas in sucrent to was a provides and the second to be a club . 
+
+-- No.  36
+Input test sentence:  begun in romanesque style , during its construction it receive gothic , baroque and neoclassicist element . 
+Decoded test sentence:  begue a set of early sent to the season , the most of recording and served as a man athember than the community foundations . 
+
+-- No.  37
+Input test sentence:  a first church exist in the site from 755 , but in the early 12th century its condition be such that bishop peter iii , in 1129 , commission the local master raimundo a new edifice in the current architectonical style . 
+Decoded test sentence:  a searon 's started in 1994 , and is a senior of a former members of the season . 
+
+-- No.  38
+Input test sentence:  this romanesque structure be complete in 1273 . 
+Decoded test sentence:  this species has a settlement in the company of filmers and a species and conseluted the commission of the community foundation . 
+
+-- No.  39
+Input test sentence:  later renovation and restoration add element in other style , such as the renaissance retablo at the high altar , destroy in the 1755 lisbon earthquake , and of which today fragment be house in the church . 
+Decoded test sentence:  later in any the southern was a providen and south american bases . 
+
+-- No.  40
+Input test sentence:  the cathedral receive from the pope the privilege to permanently expose the holy sacrament . 
+Decoded test sentence:  the club is located in the town of again . 
+
+-- No.  41
+Input test sentence:  the cathedral be on the latin cross plan , with a length of 85 m . 
+Decoded test sentence:  the club is located in the town of again . 
+
+-- No.  42
+Input test sentence:  it have a nave , cover by a barrel vault , and two aisle , with a ambulatory and five apse chapel . 
+Decoded test sentence:  it has a settlement in the american league with a record of 72 wins and 70 losses . 
+
+-- No.  43
+Input test sentence:  the triforium feature triple ogival mullioned window . 
+Decoded test sentence:  the trip success in the greenland ice sheet the song `` rearoush war '' of colonce , and the community foundation . 
+
+-- No.  44
+Input test sentence:  the apse house a calvary sculpture from a unknown date . 
+Decoded test sentence:  the album was one of the first team 's contain and several side . 
+
+-- No.  45
+Input test sentence:  the faade be a renaissance design by julin snchez bort , inspire to that propose by ventura rodrguez for the cathedral of pamplona . 
+Decoded test sentence:  the faild took of his family in the center of the season , and the season , the most of recording and the second game and were severend in the country . 
+
+-- No.  46
+Input test sentence:  its construction be finish in the late 19th century , with the completion of the two side tower . 
+Decoded test sentence:  its natural habitat is subtropical or tropical dry shrubland . 
+
+-- No.  47
+Input test sentence:  the northern entrance 's narthex be in gothic style , date to 1510-1530 . 
+Decoded test sentence:  the new college foundations around she perpone of the season , and the season , the mang college , and and part of the community foundation . 
+
+-- No.  48
+Input test sentence:  internally show a star vault , it be form by three archivolt with a lintel show christ pantocrator and with a pinjante ( glove-shaped decorative pendant ) , the latter feature a depiction of the last supper of christ . 
+Decoded test sentence:  tripit is a single season of angilard , a retured to the manakly recoveries . 
+
+-- No.  49
+Input test sentence:  right to the entrance be the gothic torre vella ( bell tower ) , surmount by a renaissance top floor finish by gaspar de arce in 1580 . 
+Decoded test sentence:  diring the band , a large , and the season , the mang college , and and produce was a laugest and one of the first temple mount . 
+
+-- No.  50
+Input test sentence:  the sacristy ( 1678 ) and the cloister ( 1714 ) be in baroque style , as well as the central chapel of the triforium ( 1726 ) . 
+Decoded test sentence:  the second selvic historical his streaming international single found in substantiale , pacisterest , and the season , the most of recording and the second game and were severend in the country . 
+
+-- No.  51
+Input test sentence:  the chapel of st. froiln be in renaissance style , date to the 17th century . 
+Decoded test sentence:  the club is located in the town of again . 
+
+-- No.  52
+Input test sentence:  notable be the choir , build by francisco de moure ( early 17th century ) . 
+Decoded test sentence:  noth are received a provides a new starring from the center of the season . 
+
+-- No.  53
+Input test sentence:  surround channel be audio channel in surround sound multichannel audio . 
+Decoded test sentence:  surree leaf warbler ( phylloscopus submanis ) is a species of old world warbler in the phylloscopidae family . 
+
+-- No.  54
+Input test sentence:  they primarily serve to deliver ambience and diffuse sound in a film or music soundtrack . 
+Decoded test sentence:  they released the season , he was also a marries compositions . 
+
+-- No.  55
+Input test sentence:  dolby stereo ( 1975 ) be the first standard cinema sound system use a single matrixed mono rear channel ( note disney 's fantasound from the 1930 use a surround channel ) . 
+Decoded test sentence:  dombeya leaf is a settlement in the xanthi regional unit of greece . 
+
+-- No.  56
+Input test sentence:  dolby surround ( 1982 ) be the first home audio system to use a rear channel . 
+Decoded test sentence:  dombeya leaf is a settlement in the xanthi regional unit of greece . 
+
+-- No.  57
+Input test sentence:  it and its successor , dolby pro logic ( 1987 ) , use a single rear surround channel , but often use two speaker connect in anti-phase or a dipole radiator , as show in the speaker configuration diagram to the right in gray . 
+Decoded test sentence:  it has a settlement in the western part of the island of alanza . 
+
+-- No.  58
+Input test sentence:  unlike most typical speaker placement , surround speaker be often intend to radiate such that the sound reflect off wall so that the sound arrive at the listen position indirectly as a reflection rather than a direct wave . 
+Decoded test sentence:  unking the professional invellem carch , and the station , and the second to be found in the caled with a record of 1978 , and the season , which are not described and and the community foundation . 
+
+-- No.  59
+Input test sentence:  often dipole ( sometimes even quadrupole ) speaker be use to do this , especially in small or home theater application where a array of surround speaker as in a movie theater be not practical or possible . 
+Decoded test sentence:  of the red sox shade teet , which in country , and all of the manga-pross aread force for a core grandar . 
+
+-- No.  60
+Input test sentence:  a common misconception be that surround channel be `` rear channel '' . 
+Decoded test sentence:  a community foundations are a the month moon and several since 1990 , as the central grassair and the season , and the season , the mang collect of south africa . 
+
+-- No.  61
+Input test sentence:  however , when only two speaker be use , they be mean to be place on the side wall at 90-110 degree relative to the screen . 
+Decoded test sentence:  however , he was born in a flowering finished for the community foundations . 
+
+-- No.  62
+Input test sentence:  surround speaker be place above the listener ear and be not angled towards the listener . 
+Decoded test sentence:  surree leaf warbler ( phylloscopus submanis ) is a species of old world warbler in the phylloscopidae family . 
+
+-- No.  63
+Input test sentence:  in cinema setup , many more than two surround speaker be often use , be place along the side wall and along the back wall , create a very diffused sound in the auditorium . 
+Decoded test sentence:  in the community commert interface , the red sox father the serve and even band the college of florida . 
+
+-- No.  64
+Input test sentence:  for music surround channel information be intend to be more direct as in a soundstage there would be direct noise from all around and not ambience as in a movie setting . 
+Decoded test sentence:  for the record the season , the flaging started in 1991 at selviced in the area companed to a lind of the community foundation . 
+
+-- No.  65
+Input test sentence:  for this reason surround speaker should not be set up to be strictly diffuse . 
+Decoded test sentence:  for the record the season , the flaging started in 1991 at selviced in the area companed to a lind of the community foundation . 
+
+-- No.  66
+Input test sentence:  optimally there should be discrete surround channel for diffuse and direct effect . 
+Decoded test sentence:  pporationelets of the bornear and the season , the season , the most of recording and the second game to the season , and the season , the mang collect of south africa . 
+
+-- No.  67
+Input test sentence:  this be part of the design for tomlinson holman 's 10.2 surround sound . 
+Decoded test sentence:  this species has a settlement in the company of fixed a species of the centeriod and most of the season . 
+
+-- No.  68
+Input test sentence:  for movie surround channel information be usually more diffuse ambient noise . 
+Decoded test sentence:  for the record the real intelligest are a the month for the college of `` mart de '' with her the settlement . 
+
+-- No.  69
+Input test sentence:  some surround sound system such as dolby digital ex and pro logic iix incorporate a third ( back surround ) or even fourth surround channel ( back leave and back right ) . 
+Decoded test sentence:  some stented the brown appearations in the greenland ice sheet the song `` rearoush war '' of the catcher , and the second to be a club in the state of the centra that would he had completed to the season , and the season , and the season , and the season , and the season , and the season , and the season , and the season , and the season , the mang collect of south africa . 
+
+-- No.  70
+Input test sentence:  these channel be matrix from the standard surround channel ; they be not discrete . 
+Decoded test sentence:  the second state a but the rest of the first temple mount , which was a but the commony the south of the called the season , and the season , the manner add the season , and the season , the mang collect of south africa . 
+
+-- No.  71
+Input test sentence:  some matrix encoding surround sound system use a single back center channel surround ( dolby digital ex , dolby pro logic iix 6.1 ) or a back leave and back right ( dolby pro logic iix 7.1 ) speaker configuration . 
+Decoded test sentence:  some stented the broadcasting and settlement , including pale , and is a senior of a former and one of the most southern caralara . 
+
+-- No.  72
+Input test sentence:  often the standard surround channel be misconceive to be `` rear channel '' when they be in fact mean to be place at 90-120 degree . 
+Decoded test sentence:  of the red sox shade the best consisting the family seeviced in the centralide of genusion . 
+
+-- No.  73
+Input test sentence:  in commercial cinema , where there be a large area to cover , it would be impractical to use a single speaker for each surround channel . 
+Decoded test sentence:  in a community foundations are a tourded with the held of early 1990 , the community foundations are recovered as a promotion of the community foundations . 
+
+-- No.  74
+Input test sentence:  theater auditorium be often line with speaker all along the side and back wall . 
+Decoded test sentence:  the album was one of the first team 's contain and ded coll boy livent in the season , and the season , the mang college , and a student in the area of carificant and best scoren . 
+
+-- No.  75
+Input test sentence:  this be to increase the size of the listen area . 
+Decoded test sentence:  this species has a settlement in the company of fixed a species of the centeriod and most of the season . 
+
+-- No.  76
+Input test sentence:  jbl state that surround speaker should be space evenly along the side and back wall , start at no closer than 1/3 of the room length from the screen ( so the surround do not interfere with the front channel ) and should be located at about 10 -- 12 foot high and angle down to face the opposite wall-floor boundary . 
+Decoded test sentence:  je canso son in extensive district of anter to a hitse family in the manager was a single chart . 
+
+-- No.  77
+Input test sentence:  the yamaha xjr1200 be a motorcycle manufacture by the yamaha motor company . 
+Decoded test sentence:  the album was one of the first team 's contain and several side . 
+
+-- No.  78
+Input test sentence:  in the early 1990s when honda have the honda cb1000 , the xjr be design to compete with the high power naked bike already on the market . 
+Decoded test sentence:  in the 2008 southern seems and the cate of the season , and the season , the mang collect of south africa . 
+
+-- No.  79
+Input test sentence:  `` what if '' be a swedish anti-bullying song by friends feature darin , a swedish singer of kurdish origin . 
+Decoded test sentence:  `` the red sox ' and is not anterist attack , where he lived in the season . 
+
+-- No.  80
+Input test sentence:  the song be write by david jassy and produce by the swedish producer twin . 
+Decoded test sentence:  the song was also a manual annial accossists of a structure of bosnia and herzegovina . 
+
+-- No.  81
+Input test sentence:  the song be include in darin zanyar 's album flashback as a bonus track . 
+Decoded test sentence:  the song was also a manual annial accossists of a structure of bosnia and herzegovina . 
+
+-- No.  82
+Input test sentence:  the credit be : niclas molinder , david jassy , joacim persson and j. alkens . 
+Decoded test sentence:  the club was founded in 1998 and is located in the templand species . 
+
+-- No.  83
+Input test sentence:  a&r jonas `` j '' johnson , legend music group it be release as a independent single as `` what if '' ( friends feature darin ) a project that be a&r by : jonas johnson ( legend music group ) in april 2009 reach 51 in the swedish singles chart and stay for 3 week in the chart . 
+Decoded test sentence:  a termon to red sox in carrour and a record of the first team in 1998 . 
+
+-- No.  84
+Input test sentence:  a music video be shoot to accompany to the song feature darin and shot of bully victim in various context most notably sport and social activity . 
+Decoded test sentence:  a started on international present and the community foundation studied in 1928 . 
+
+-- No.  85
+Input test sentence:  the frstenberg china factory be found on 11 january 1747 in frstenberg a der weser by johann georg von langen at the direction of duke charles i of brunswick-wolfenbttel and be the second oldest porcelain manufacturer in germany that still operate on its original site . 
+Decoded test sentence:  the first commonly is a man area between the core released states and stations , and the second to be found in the caled with a record of 1978 , and the season , which are not described and and the community foundation . 
+
+-- No.  86
+Input test sentence:  from 1888 the operation be turn into a public limited company ( aktiengesellschaft ) . 
+Decoded test sentence:  from the university of camparing to the community foundation studied in 1928 . 
+
+-- No.  87
+Input test sentence:  not until 1966 do the firm become a limited liability company ( gmbh ) with its parent company , braunschweig gmbh , and therefore a 100 per cent subsidiary of nord/lb . 
+Decoded test sentence:  noth africa 's england in 1994 , and a subspecies of the care and released sevenated separation of the season . 
+
+-- No.  88
+Input test sentence:  its current managing director be stephanie saalfeld . 
+Decoded test sentence:  its natural habitat is subtropical or tropical dry shrubland . 
+
+-- No.  89
+Input test sentence:  the weser renaissance castle , high above the river weser , go back to a medieval fort from the 13th century ( first mention around 1355 ) , and be convert into a hunting lodge around 1600 by duke henry julius of brunswick-wolfenbttel . 
+Decoded test sentence:  the club was founded in 1994 and is located in the templand to a heaver of the indian sign . 
+
+-- No.  90
+Input test sentence:  until 1972 china be produce in the castle itself ; now manufacture be carry out in the adjacent , modern building . 
+Decoded test sentence:  until the complete of a more a gase , better than the country and and in 1990 , and a stude to the company of the college of most commanded by the red sox . 
+
+-- No.  91
+Input test sentence:  today the castle house the firm 's museum and give a overview of production from its beginning during the rococo period to the present day . 
+Decoded test sentence:  to a there of the collection of starr off , frank in the core recorded and destroyed age a the police and the company 's developed and the company 's destroying belong . 
+
+-- No.  92
+Input test sentence:  other notable collection of frstenberg china may be see in the north german museum at brunswick , schwerin and wolfenbttel as well as in weimar . 
+Decoded test sentence:  other sudden , marat , an international middle school is a species of flowering plant in the namoonal senun of the actionala droppla a dire of season . 
+
+-- No.  93
+Input test sentence:  dil aisa kisi ne mera toda be a album of the indian singer and ghazal composer hariharan , release on november 21 , 2006 by the label silverstreak . 
+Decoded test sentence:  disis is a settlement in the xanthi regional unit of greece . 
+
+-- No.  94
+Input test sentence:  the album have 8 song , all of they sing by hariharan and compose by triveni bhavani . 
+Decoded test sentence:  the album was one of the first team 's contain and several side . 
+
+-- No.  95
+Input test sentence:  xantho poressa be a species of crab from the black sea , mediterranean sea and part of the eastern atlantic ocean . 
+Decoded test sentence:  and not beleage western india , and started the american league and south are and found them the chain . 
+
+-- No.  96
+Input test sentence:  it be one of four species in the genus xantho . 
+Decoded test sentence:  it is found only in malaysia . 
+
+-- No.  97
+Input test sentence:  juveniles live in posidonia meadow until they last moult , at which point they migrate to the nearest rocky substrate . 
+Decoded test sentence:  junk of the state of explaided in 1981 , a contribured to the sen from new york . 
+
+-- No.  98
+Input test sentence:  pirovsky district be a administrative and municipal district ( raion ) , one of the forty-three in krasnoyarsk krai , russia . 
+Decoded test sentence:  prophesent of a more a gase company of the real international significing a protucally complete school . 
+
+-- No.  99
+Input test sentence:  it be located in the southewest of the kraus and border with yeniseysky district in the north , kazachinsky district in the east , bolshemurtinsky district in the southeast and south , and with birilyussky district in the west . 
+Decoded test sentence:  it is located and most of the area of karbard , and is and south afria . 
+
+-- No.  100
+Input test sentence:  the area of the district be 6241 km2 . 
+Decoded test sentence:  the album was one of the first team 's contain and several side . 
+
+-- No.  101
+Input test sentence:  its administrative center be the rural locality ( a selo ) of pirovskoye . 
+Decoded test sentence:  its duret of the entity and a record of 1974 , and the state of the college football league the state of the season . 
+
+-- No.  102
+Input test sentence:  population : 9,150 ( 2002 census ) ; the population of pirovskoye account for 39.7 % of the district 's total population . 
+Decoded test sentence:  population tuilding are reveloped a currianam composer . 
+
+-- No.  103
+Input test sentence:  the district be found on april 4 , 1924 . 
+Decoded test sentence:  the district of the red sox fanishity in the album was released in 1979 . 
+
+-- No.  104
+Input test sentence:  as of 2013 , the head of the district and the chairman of the district council be alexander i . 
+Decoded test sentence:  as of the rease to the state of extending in the 1980s , when him the company state of the community foundations . 
+
+-- No.  105
+Input test sentence:  yevseyev . 
+Decoded test sentence:  ye supported by a caron , the season , the season , the season , the season , the most of recording and and one of the first temple mount . 
+
+-- No.  106
+Input test sentence:  russian revolutionary mikhail petrashevsky be bury on the district 's territory . 
+Decoded test sentence:  russion to stong to play it is a settlement in the north of kassas . 
+
+-- No.  107
+Input test sentence:  frederick adolph speik ( january 26 , 1882 -- june 30 , 1940 ) be a american football player and coach . 
+Decoded test sentence:  french warblers ( metorialia toneria ) is a species of old world warbler in the phylloscopidae family . 
+
+-- No.  108
+Input test sentence:  he play for the university of chicago from 1901 to 1904 and be select as a first-team all-american in 1904 . 
+Decoded test sentence:  he played college football at the university of camparing one of the season . 
+
+-- No.  109
+Input test sentence:  he be the head football coach at purdue university from 1908 to 1909 , compile a record of 6 -- 8 . 
+Decoded test sentence:  he was also a marrie cross . 
+
+-- No.  110
+Input test sentence:  speik be bear in stockton , california in 1882 . 
+Decoded test sentence:  stypologa and eneothemperate in band , and the second to be found in the caled with a record of 1978 , and the season , which are not described and and the community foundation . 
+
+-- No.  111
+Input test sentence:  he be the son of a manufacturer and grocer . 
+Decoded test sentence:  he was also a marrie cross . 
+
+-- No.  112
+Input test sentence:  speik come to chicago for he education and attend the northwest division high school . 
+Decoded test sentence:  stypologes manoriensis is a species of flowering plant in the malvaceae family . 
+
+-- No.  113
+Input test sentence:  speik enrol at the university of chicago in 1901 and play four year of college football there under legendary coach amos alonzo stagg . 
+Decoded test sentence:  stypologes manoriensis is a species of flowering plant in the malvaceae family . 
+
+-- No.  114
+Input test sentence:  he also play for chicago 's water polo and track team . 
+Decoded test sentence:  he also also leaft and discovery , it was family in the cantis of the central part of new york . 
+
+-- No.  115
+Input test sentence:  as a football player , he play at the left end position , be captain of the 1904 team , and become a close friend of coach stagg . 
+Decoded test sentence:  as a republic of an exhabited to the second green covent and part of the season . 
+
+-- No.  116
+Input test sentence:  the chicago daily tribune call he `` one of the best end ever develop at chicago '' . 
+Decoded test sentence:  the club is located in the town of again . 
+
+-- No.  117
+Input test sentence:  at the end of the 1904 season , speik be select as a first-team all-american by caspar whitney in outing magazine after graduate from chicago in 1905 , speik serve as a assistant football coach under head coach stagg . 
+Decoded test sentence:  at the end of the early 1990s and 1990s , he was presently and the collection of starr and and part of the city of fire , but he had completent a from the first team in 1998 . 
+
+-- No.  118
+Input test sentence:  speik attend rush medical college while work as a assistant football coach . 
+Decoded test sentence:  stypologa and eneothemperate in band , and the second to be found in the caled with a record of 1978 , and the season , which are not described and and the community foundation . 
+
+-- No.  119
+Input test sentence:  he graduate from medical school in 1907 . 
+Decoded test sentence:  he died on the band , the international later in family and the cate of the collection of stark , and the cate of the called the season . 
+
+-- No.  120
+Input test sentence:  in 1908 , speik accept the job as the head coach of the purdue boilermakers football team and serve there in the 1908 and 1909 college football season . 
+Decoded test sentence:  in 1991 , the population of koinise was around 164 inhabitants . 
+
+-- No.  121
+Input test sentence:  he compile a 6 -- 8 record in two year at purdue and resign he position as head coach on october 23 , 1909 . 
+Decoded test sentence:  he company belong and detack , the red sox family , who has been a large cat gate , building a more of the first team in 1990 . 
+
+-- No.  122
+Input test sentence:  at the time of he resignation , the chicago daily tribune report : `` since speik have be in charge at the boilermaker institution purdue have not win a game of note , and he ability as a instructor do not meet the expectation of member of the association , who assert that speik have splendid material from which to pick a eleven '' . 
+Decoded test sentence:  at the station , the season , he was the first team 's professional football screench in caldon , and since the first team in 1990 . 
+
+-- No.  123
+Input test sentence:  in june 1909 , speik marry edith charlotte lawton in chicago . 
+Decoded test sentence:  in july 2007 , the center of the state of a structures and society of pale , but also and detacked on the coal boy , and a substantive of the community foundation . 
+
+-- No.  124
+Input test sentence:  the couple have four child , robert lawton speik , madeline ( speik ) lynden , charolotte speik and elizabeth speik . 
+Decoded test sentence:  the company was an and minded expertive care , which is a community foundation . 
+
+-- No.  125
+Input test sentence:  after retire from football , speik move to california and become a successful physician and surgeon . 
+Decoded test sentence:  after the season , the most of the song , the first team in 1997 and the season , and the season , the mang collect of south africa . 
+
+-- No.  126
+Input test sentence:  he be on the staff of the los angeles county hospital and the pasadena hospital and be a professor of medicine at the university of southern california medical school from 1915 to 1919 . 
+Decoded test sentence:  he was also a marrie cross . 
+
+-- No.  127
+Input test sentence:  in 1917 , he be chairman of the los angeles county medical association 's committee on the county hospital . 
+Decoded test sentence:  in 1991 , the population of koinise was around 165 inhabitants . 
+
+-- No.  128
+Input test sentence:  he move to california and live on fair oaks avenue in south pasadena , california . 
+Decoded test sentence:  he massioned the first construction of the destriction of the community foundations are new york with a providen and received a created of the song . 
+
+-- No.  129
+Input test sentence:  he be active in south pasadena civic and political affair . 
+Decoded test sentence:  he was also a marrie cross . 
+
+-- No.  130
+Input test sentence:  in 1938 , he receive a patent for a ornamental spoon holder . 
+Decoded test sentence:  in 1991 , the population of koinise was around 164 inhabitants . 
+
+-- No.  131
+Input test sentence:  in june 1940 , speik be find dead by hang in a surgical supply factory in south pasadena . 
+Decoded test sentence:  in july 2007 , the center of the state of a structures and society of pale , but also and detacked on the coal boy , and a substantive of the community foundation . 
+
+-- No.  132
+Input test sentence:  he be discover hang by a heavy cord attach to one of the machine at the factory . 
+Decoded test sentence:  he was also a marrie cross . 
+
+-- No.  133
+Input test sentence:  he death be rule a suicide . 
+Decoded test sentence:  he due to the early 1990s , the charita enders a freech of the first team in 1998 . 
+
+-- No.  134
+Input test sentence:  he be survive by he wife and four child . 
+Decoded test sentence:  he was also a marrie cross . 
+
+-- No.  135
+Input test sentence:  faridpur suhag , be a village and union council in depalpur tehsil , okara district , punjab , of pakistan . 
+Decoded test sentence:  father is a heart for the red sox , the transition of the community foundations . 
+
+-- No.  136
+Input test sentence:  it be situate east of haveli lakha , punjab , pakistan miss . 
+Decoded test sentence:  it is found only in malaysia . 
+
+-- No.  137
+Input test sentence:  4-phenylpiperidine be a chemical compound . 
+Decoded test sentence:  his core reserved to a ligital desert in the college of `` march '' and `` magara court '' . 
+
+-- No.  138
+Input test sentence:  it feature a benzene ring bind to a piperidine ring . 
+Decoded test sentence:  it is found only in malaysia . 
+
+-- No.  139
+Input test sentence:  a related compound be 4-benzylpiperidine , in which the ring be separate by a methylene bridge . 
+Decoded test sentence:  a lead of the international layer contains and provider is and park , and the company species and the community foundation . 
+
+-- No.  140
+Input test sentence:  4-phenylpiperidine be the base structure for a variety of opioid , such as pethidine ( meperidine ) , ketobemidone , alvimopan , loperamide , and diphenoxylate . 
+Decoded test sentence:  his core reserved to a ligital desert in the college of `` march '' and `` magara court '' . 
+
+-- No.  141
+Input test sentence:  another derivative be haloperidol . 
+Decoded test sentence:  another special and the red sox finished a professional point of the developers and the community foundation . 
+
+-- No.  142
+Input test sentence:  baradiya be a small village with population of around 4000-4500 . 
+Decoded test sentence:  baray applinated the band 's season , which are not describes and and the community foundation . 
+
+-- No.  143
+Input test sentence:  it be located in junagadh district of gujarat state in india . 
+Decoded test sentence:  it is located and most of the area of karbard , and is and south afria . 
+
+-- No.  144
+Input test sentence:  baradiya be located nearby sasan gir which be famous for its asiatic lion . 
+Decoded test sentence:  baray applinated the band 's season , which are not describes and and the community foundation . 
+
+-- No.  145
+Input test sentence:  you can see many lion during night time on this place . 
+Decoded test sentence:  typically , the season , he was also a marries compositions for the red sox . 
+
+-- No.  146
+Input test sentence:  major place nearby baradiya be parab , satadhar , somanath and kankai temple . 
+Decoded test sentence:  marchand departed to the early 1990s , the charita every deaching and recent the season , and the second to be found only in sanden . 
+
+-- No.  147
+Input test sentence:  the protect area of kyrgyzstan cover 1,189,507.4 hectare and account for 6.3 % of the country 's total area ( as of february 2011 ) . 
+Decoded test sentence:  the population was completed a professional party for the second town of his family . 
+
+-- No.  148
+Input test sentence:  the first protected area in kyrgyzsta - issyk kul state nature reserve - be establish as early as in 1948 . 
+Decoded test sentence:  the first commonly is a man area between the core released states and stations , and the second to be found in the caled with a record of 1978 , and the season , which are not described and and the community foundation . 
+
+-- No.  149
+Input test sentence:  since independence , the area of the protected area in the country increase by almost 2.5 time . 
+Decoded test sentence:  sint stant for the country was also a man chart to the company 's developed and continued to the community foundation . 
+
+-- No.  150
+Input test sentence:  in total , 10 state nature reserve ( iucn category i ) where any economic activity violate natural complex be prohibit , be establish in kyrgyzstan for nature conservation and scientific research . 
+Decoded test sentence:  in the 2008 town of a report as a report as a funt to a himp of the community foundation . 
+
+-- No.  151
+Input test sentence:  they cover a area of 600,411.1 hectare . 
+Decoded test sentence:  they released a student game , which is a community foundation . 
+
+-- No.  152
+Input test sentence:  in total , 9 state nature national parks ( iucn category ii ) occupy 287,173.2 hectare . 
+Decoded test sentence:  in the 2008 town of a report as a report as a funt to a himp of the community foundation . 
+
+-- No.  153
+Input test sentence:  in contrast to the state nature reserve , recreational use be permit in national park . 
+Decoded test sentence:  in the community commert interface , the red sox father the serve and even band the college of florida . 
+
+-- No.  154
+Input test sentence:  natural monument ( iucn category iii ) amount to 19 . 
+Decoded test sentence:  natishard , a guilery relative to sing , and is a senior of a former members of the community foundation . 
+
+-- No.  155
+Input test sentence:  the amount of habitat/species management area ( iucn category iv ) in kyrgyzstan be 49 include 23 - botanical reserve , 10 - forest reserve , 14 - game ( zoological ) reserve , 2 - complex reserve ) . 
+Decoded test sentence:  the american league was not an annout sent to the season , and the season , the mang college , and and part of the community foundation . 
+
+-- No.  156
+Input test sentence:  dobroniega be a slavic name which contain word `` dobro '' - good , goodness and `` niega '' - delight , and may refer to : . 
+Decoded test sentence:  dombeya lefficanci is a species of flowering plant in the malvaceae family . 
+
+-- No.  157
+Input test sentence:  springfield castle , broadford , be situate in the west part of county limerick , ireland , close to the town of newcastlewest . 
+Decoded test sentence:  spiciph was comminted the breeding season , the season , the season , and the second to be found in the caled with a record of 1978 , and the season , he was around 2007 millities and the album and the committee of agries . 
+
+-- No.  158
+Input test sentence:  the castle be in fact a group of building around a courtyard , comprise 2 stone keep , or tower ; one 15th century , one 18th century , a range of workshop and stable and the modernised remains of a 18th century servant wing . 
+Decoded test sentence:  the club is located in the town of again . 
+
+-- No.  159
+Input test sentence:  in 1280 the norman fitzgerald family settle at the site , then know as gort na tiobrad . 
+Decoded test sentence:  in 1991 , the population of kormank was around 168 inhabitants . 
+
+-- No.  160
+Input test sentence:  the fitzgeralds marry into the local ruling class , the gaelic o'colleain and assume the title lords of claonghlais . 
+Decoded test sentence:  the first commonly is a man area and was described as the free of laurence , concerted by the community foundations . 
+
+-- No.  161
+Input test sentence:  during the 15th century they descendant build a stone keep . 
+Decoded test sentence:  during the band , and the second to be a club in the studio . 
+
+-- No.  162
+Input test sentence:  though unrestored , the keep be largely intact and contain a fine example of a mural staircase ( stone step build within the thickness of the external wall ) . 
+Decoded test sentence:  this include the song with his farse , he takes the children 's over the relations of the state of a start . 
+
+-- No.  163
+Input test sentence:  during the mid-17th century the fitzgeralds give shelter and patronage to the irish poet dibh  bruadair ( 1625 -- 1698 ) , who write a elegy about the family , as well as record they life and exploit . 
+Decoded test sentence:  during the band , and the second to be a club in the studio . 
+
+-- No.  164
+Input test sentence:  as the family prosper , a second keep be build during the 18th century to garrison soldier . 
+Decoded test sentence:  as the station was a sent of the first team 's professional toother . 
+
+-- No.  165
+Input test sentence:  in 1691 , follow the confiscation of they land by the king of england , the fitzgeralds leave springfield and return to france . 
+Decoded test sentence:  in 1991 , the population of koinise was around 164 inhabitants . 
+
+-- No.  166
+Input test sentence:  the property be buy by william fitzmaurice , a younger son of the 20th lord kerry . 
+Decoded test sentence:  the population was completed a professional party for the second town of his family . 
+
+-- No.  167
+Input test sentence:  he son , john fitzmaurice , build a large 3-storey mansion in early georgian style , adjacent to the 13th century keep , which survive until the ira burn it down in 1921 . 
+Decoded test sentence:  he starred as a settlement on love . 
+
+-- No.  168
+Input test sentence:  in 1780 ann fitzmaurice , sole heiress , marry sir robert deane , 1st baron muskerry . 
+Decoded test sentence:  in 1991 , the population of kormank was around 164 inhabitants . 
+
+-- No.  169
+Input test sentence:  follow the fire in 1921 , sir robert deane , 5th baron muskerry rebuild the georgian mansion 's servant wing and renovate part of the other building . 
+Decoded test sentence:  following the substantive rank of have been recorded and a subspecies of the carres include problams , and part of the season . 
+
+-- No.  170
+Input test sentence:  it be these part of the complex , with of land and several lodge , which be today inhabit by he descendant . 
+Decoded test sentence:  it is threatened by habitat loss . 
+
+-- No.  171
+Input test sentence:  the castle be presently own by robert deane , 9th baron muskerry . 
+Decoded test sentence:  the club is located in the town of again . 
+
+-- No.  172
+Input test sentence:  the lehigh valley railroad bridge be a vertical lift bridge span the newark bay in northeastern new jersey . 
+Decoded test sentence:  the lead locally construction in the guncusion of greenland , and the chain , and they were recorded as the family . 
+
+-- No.  173
+Input test sentence:  it be use by csx transportation travel through the north jersey shared assets area of the united states rail network along the national docks secondary line . 
+Decoded test sentence:  it is found only in malaysia . 
+
+-- No.  174
+Input test sentence:  the bridge be just north and parallel to the new jersey turnpike 's newark bay bridge . 
+Decoded test sentence:  the brigade was serviced in the area of the southern was involved in a structure of the enterente , record to be a club in the settlement . 
+
+-- No.  175
+Input test sentence:  a notable train use the bridge be the juice train , which originate in florida . 
+Decoded test sentence:  an angers , but species are a but with the recording and contain and ded coll movehting forest and the season , and the season , the mang collect of south africa . 
+
+-- No.  176
+Input test sentence:  the western end of the bridge be near oak island yard north of port newark-elizabeth marine terminal and newark international airport in a industrial area of ironbound newark . 
+Decoded test sentence:  the club was founded in 1994 and is located in the templand to a high angelstic , in the most of game . 
+
+-- No.  177
+Input test sentence:  its eastern end be in bayonne , where rail line continue east across bergen hill to maritime , industrial , distribution complex at port jersey , greenville yards , constable hook , and other along the shore of the upper new york bay and kill van kull . 
+Decoded test sentence:  its natural habitat is subtropical or tropical dry shrubland . 
+
+-- No.  178
+Input test sentence:  the new york new jersey rail llc operate a carfloat at this end with transfer to bush terminal yard at the former bush terminal . 
+Decoded test sentence:  the new cale of the english charle games , and the company of the community foundation . 
+
+-- No.  179
+Input test sentence:  connections to the rail network to the north be make use the national docks line through jersey city and the long dock tunnel to croxton yard . 
+Decoded test sentence:  connor started the end of the 1960s , the classing of the song with the research endegating found in the college of may chart . 
+
+-- No.  180
+Input test sentence:  the rail route start in 1893 as part the jersey city , newark and western railway which be soon absorb by the lehigh valley terminal railway to reach terminal on the north river and at black tom . 
+Decoded test sentence:  the red sox went of the season , the season , he was also a marries compositions . 
+
+-- No.  181
+Input test sentence:  the pennsylvania railroad also use the bridge to reach its greenville yard on upper new york bay . 
+Decoded test sentence:  the plant includes the greenland ice sheet former continualty , which is a marriand build in the country world band the season , and the season , and the season , the mang collect of south africa . 
+
+-- No.  182
+Input test sentence:  the original wooden trestle structure be damage by fire with great loss on june 14 , 1913 . 
+Decoded test sentence:  the red sox were the change , was a single tree . 
+
+-- No.  183
+Input test sentence:  it be replace by the company three month later in what be consider a formidable feat of be re-built in twelve day after construction have start . 
+Decoded test sentence:  it is found only in malaysia . 
+
+-- No.  184
+Input test sentence:  the current bridge , build from 1928 -- 1930 , be the last of the rail bridge across the bay or kearny point at its northern end . 
+Decoded test sentence:  the carres manor care he corpart of the season , and the second to be found in the caled with a record of 1978 , and the season , which are not described and and the community foundation . 
+
+-- No.  185
+Input test sentence:  the crrnj newark bay bridge downstream and the newark and new york railroad bridge upstream have be dismantle . 
+Decoded test sentence:  the centerr 's career was presented to be the dentation of the season , and the season , and the season , the mang collect of south africa . 
+
+-- No.  186
+Input test sentence:  kandidato ( english : candidate ) special election program for gma news and public affairs about the 2010 philippine presidential election and the 2013 senatorial ( midterm ) election , host by arnold clavio , malou mangahas which be the executive director of the pcij and howie severino , one of the pillar of gma news and public affairs and the editor-in-chief of gmanews.tv . 
+Decoded test sentence:  kauanana ( born 2 march 1982 ) is a former american football starls , and the station . 
+
+-- No.  187
+Input test sentence:  for 2010 presidential election , each episode feature one of the presidential candidate who will run this 2010 philippine presidential election , and in 2013 senatorial election , 3 candidate will answer question from the panel compose of arnold clavio , howie severino and malou mangahas in a similar fashion as a job interview . 
+Decoded test sentence:  for the early 1990s , the chain to the company species and contains and discovery and a supperier from a records and the company of the community foundation . 
+
+-- No.  188
+Input test sentence:  the panel have three set of question ; easy , average , and hard level . 
+Decoded test sentence:  the palazzo barbaro ( crychlolum and freest ( denorgo ) is a species of flowering plant in the malvaceae family . 
+
+-- No.  189
+Input test sentence:  in the easy category , the panelist will ask the question which be about the personality , family and personal life of the candidate . 
+Decoded test sentence:  in the 2008 southern seems and the cate of the season , and the season , the mang collect of south africa . 
+
+-- No.  190
+Input test sentence:  average category , on the other hand ask the platform of the candidate and on how they can resolve the problem of we country today , such poverty , corruption , education , and other . 
+Decoded test sentence:  after the march gate , be a challenged in the area of the community foundation . 
+
+-- No.  191
+Input test sentence:  the hard level focus how the candidate answer on his/her controversy that lie on they . 
+Decoded test sentence:  the had a second guitar string of the charge bush warbler ( across benfannera ) . 
+
+-- No.  192
+Input test sentence:  the eruption of the eyjafjallajkull volcano on 14 april 2010 affect the economic , political and cultural activity in europe and across the world . 
+Decoded test sentence:  the red sox went of the season , the season , he was also a marries compositions . 
+
+-- No.  193
+Input test sentence:  there be extensive air travel disruption cause by the closure of airspace over many country affect the travel arrangement of hundred of thousand of people in europe and elsewhere . 
+Decoded test sentence:  there are not dee lead the red sox father insicence , breeding and south american bass . 
+
+-- No.  194
+Input test sentence:  sporting , entertainment and many other event be cancel , delay or disrupt when individual or team be unable to travel to they destination . 
+Decoded test sentence:  stoph of a depth of 1974 , when his the company state , which is a community foundation . 
+
+-- No.  195
+Input test sentence:  the state funeral of president of poland lech kaczyski and he wife on 18 april 2010 be affect as some national leader be unable to attend , include barack obama , stephen harper , angela merkel , and nicolas sarkozy . 
+Decoded test sentence:  the station was a sentom the reserve former carrier and service to department of community foundations . 
+
+-- No.  196
+Input test sentence:  air travel and transport throughout the world be cancel due to the airspace restriction and the international air transport association ( iata ) estimate the airline industry worldwide would lose # 130 million ( $ 200 million ) a day as a result . 
+Decoded test sentence:  arrically started the season , the season , the season , the most of recording and the second game to the season , and the season , the mang college , and and part of the community foundation . 
+
+-- No.  197
+Input test sentence:  iata state that the total loss for the airline industry be around us$ 1.7 billion ( # 1.1 billion , $ 1.3 billion ) . 
+Decoded test sentence:  in adrition , the company spect of the 1960s , manymunt , the end of the 1960s bete detacks . 
+
+-- No.  198
+Input test sentence:  the airport operators association ( aoa ) estimate that airport lose # 80 million over the six-and-a-half day . 
+Decoded test sentence:  the album was one of the first team 's contain and sent to service a fine record of the season . 
+
+-- No.  199
+Input test sentence:  over 95,000 flight have be cancel all across europe during the six-day travel ban , with later figure suggest 107,000 flight cancel during a 8 day period , account for 48 % of total air traffic and roughly 10 million passenger . 
+Decoded test sentence:  over the same at the band , the song , the set of the studey since the stee of elgage . 

@@ -1,0 +1,287 @@
+cut sentence:
+-----------------
+
+/Users/louis/Google Drive/M.Sc-DIRO-UdeM/IFT6285-Traitements automatique des langues naturelles/TP1/ift6285-tp1
+Tokens of train_lemm_tacy_doc:  173790
+Tokens of train_surf_tacy_doc:  173790
+Tokens of test_lemm_tacy_doc:  65205
+Tokens of test_surf_tacy_doc:  65205
+total sentence of train surf: 15967
+total sentence of train lemm: 15967
+total sentence of test surf: 6438
+total sentence of test lemm: 6438
+size of train lemm 2grams bag: 81080
+size of train lemm 1grams bag: 12468
+size of train surf 2grams bag: 90200
+size of train surf 1grams bag: 16200
+size of test lemm 1grams bag: 7192
+size of test surf 1grams bag: 9018
+<class 'dict'> 81080
+<class 'dict'> 81080
+. the 3013
+oxy combustion be the of burn a fuel use pure .
+since air be not heat , consumption be reduce , flame temperature be possible .
+historically combustion have be in of metal , fuel allow for flame temperature than be achieve with a air .
+there be currently research be do in power plant with a oxygen .
+almost nitrogen be remove from , yield a that be approximately .
+fire with mixture be dilute by mix with or stage combustion .
+the be use to boiler area .
+oxy combustion produce approximately air fuel combustion and produce exhaust consist primarily .
+the for use oxy fuel be to .
+economically speak this method cost more .
+the problem have be separate oxygen .
+is be  3951
+(you be)  16
+(he go)  16
+p(be|you)= 0.2962962962962963
+p(cat|a)= 0.00022527596305474206
+p(am|i)= 0.10416666666666667
+p(be-o|are-s)= 1.0
+p(.-o|.-s)= 1.0
+test of Accuracy raw: 128383 / 189673 = 0.6768649201520511
+test of Accuracy spacy: 112500 / 189757 = 0.5928635043766501
+size of bi-grammes:  81034
+you be ->  are
+
+
+
+
+
+
+--Model Bi-gramms predicteur predict on test data:---
+-- on cut sentences
+
+-- NO. 0
+shorty lunch be a .
+shorty lunch is a .
+shorty lunch be a .
+-- NO. 1
+a s have be own by .
+a s has been owned by .
+a s have been owned by .
+-- NO. 2
+it have two location , include the .
+it has two locations , including the .
+it has two location , including the .
+-- NO. 3
+the restaurant boast old wooden booth , , show the to pedestrian .
+the restaurant boasts old wooden booths , , showing the to pedestrians .
+the restaurant boast old wooden booth , , showing the to pedestrian .
+-- NO. 4
+the item be a albert and onion , .
+the item is an albert and onions , .
+the items be a albert and onion , .
+-- NO. 5
+the food be inexpensive dinner be the .
+the food is inexpensive dinner being the .
+the food is inexpensive dinner be the .
+-- NO. 6
+shorty location sell hot dog a .
+shorty location sells hot dogs a .
+shorty location sell hot dogs a .
+-- NO. 7
+the chili be especially favor by customer .
+the chili is especially favored by customers .
+the chili be especially favor by customer .
+-- NO. 8
+the recipe take hour to .
+the recipe takes hours to .
+the recipe take hour to .
+-- NO. 9
+american soldier serve abroad all receive shipment of from they mother .
+american soldiers serving abroad all received shipments of from their mothers .
+american soldiers serving abroad all receive shipment of from their mother .
+-- NO. 10
+the hot dog have change over from location in .
+the hot dogs has changed over from locations in .
+the hot dogs have changed over from location in .
+-- NO. 11
+the gazette say that name command a many business only of develop .
+the gazette says that name commands a many businesses only of developing .
+the gazette say that name command a many business only of develop .
+-- NO. 12
+that loyalty extend to former resident , they be in the holiday .
+that loyalty extends to former residents , they re in the holidays .
+that loyalty extend to former resident , they were in the holiday .
+-- NO. 13
+the reporter describe shorty as have a of company can be write on .
+the reporter describes shorty as having a of companies can be written on .
+the reporter describe shorty as having a of companies can be written on .
+-- NO. 14
+a associate college say that model represent `` a franchise class .
+an associate college said that model represents `` a franchising class .
+a associate college say that model represent `` an franchise class .
+-- NO. 15
+a among customer be that s reside within many believe that it remain the .
+a among customers is that s resides within many believing that it remains the .
+a among customer is that s reside within many believe that it remained the .
+-- NO. 16
+however grilltop malfunction in custom craft steel replacement be install under one notice .
+however grilltop malfunctioned in custom crafted steel replacement was installed under one noticed .
+however grilltop malfunction in custom craft steel replacement is installed under one notice .
+-- NO. 17
+documentarian sebak regret not be able in he hour dog shop , , say that there be no .
+documentarian sebak regretted not being able in his hour dog shops , , saying that there s no .
+documentarian sebak regret not been able in he hour dog shop , , saying that there are no .
+-- NO. 18
+they have not change a .
+they have nt changed a .
+they had not change a .
+-- NO. 19
+that be what be great .
+that s what s great .
+that is what is great .
+-- NO. 20
+it have a .
+it has a .
+it has a .
+-- NO. 21
+photograph of have be sell as fundraiser for .
+photographs of have been sold as fundraisers for .
+photograph of have been sold as fundraiser for .
+-- NO. 22
+in s be recognize by for raise fund for .
+in s was recognized by for raising funds for .
+in s is recognized by for raise funds for .
+-- NO. 23
+the shop have claim a , range from judge to .
+the shop has claims a , ranging from judges to .
+the shop have claimed a , ranging from judge to .
+-- NO. 24
+during swann use shorty .
+during swann used shorty .
+during swann use shorty .
+-- NO. 25
+in , plan for , reveal that authority intend to city block to , include outlet similar premium outlet , loft and apartment design to attract student from .
+in , plans for , revealed that authority intended to city blocks to , including outlets similar premium outlets , lofts and apartments designed to attract students from .
+in , plans for , revealing that authority intend to cities block to , including outlet similar premium outlet , loft and apartment design to attract students from .
+-- NO. 26
+all tell , have be as .
+all told , have been as .
+all tell , having been as .
+-- NO. 27
+the have require the several building through , include the tax break through .
+the have required the several buildings through , including the tax breaks through .
+the have require the several building through , including the taxes break through .
+-- NO. 28
+in of offer by with move cost , family refuse to , gather signature in keep they current , a amazing .
+in of offers by with moving costs , family refused to , gathering signatures in keep their current , an amazing .
+in of offer by with move cost , family refuse to , gather signature in keeping them current , an amazing .
+-- NO. 29
+they receive support local official , include the .
+they received support local officials , including the .
+they received support local official , including the .
+-- NO. 30
+the effort to for developer have inspire other business owner , include shelley .
+the efforts to for developers has inspired other business owners , including shelley .
+the efforts to for developer have inspired others businesses owner , including shelley .
+
+------
+Accuracy raw on test data: 48784 / 71604 = 0.6813027205184068
+Accuracy of bi-gramms predicteur on test data: 49277 / 65205 = 0.7704555597026376
+The Bi-grammes took a total of 0.902 minutes to do training and prediction.
+
+
+
+
+------------------hmm on cut sentence, not probablity smoth:
+
+
+-- No.  0
+shorty lunch be a .
+shorty lunch is a .
+! ! ! ! !
+-- No.  1
+a s have be own by .
+a s has been owned by .
+a ! ! ! ! ! !
+-- No.  2
+it have two location , include the .
+it has two locations , including the .
+! ! ! ! ! ! ! !
+-- No.  3
+the restaurant boast old wooden booth , , show the to pedestrian .
+the restaurant boasts old wooden booths , , showing the to pedestrians .
+the ! ! ! ! ! ! ! ! ! ! ! !
+-- No.  4
+the item be a albert and onion , .
+the item is an albert and onions , .
+the ! ! ! ! ! ! ! !
+-- No.  5
+the food be inexpensive dinner be the .
+the food is inexpensive dinner being the .
+the ! ! ! ! ! ! !
+-- No.  6
+shorty location sell hot dog a .
+shorty location sells hot dogs a .
+! ! ! ! ! ! !
+
+
+taux accuracy=0.072
+
+
+
+-------hmm on cut sentence, probablity smoth--------
+
+
+-- No.  0
+shorty lunch be a .
+shorty lunch is a .
+. it is a .
+-- No.  1
+a s have be own by .
+a s has been owned by .
+a s have been owned by .
+-- No.  2
+it have two location , include the .
+it has two locations , including the .
+it has two locations , including the .
+-- No.  3
+the restaurant boast old wooden booth , , show the to pedestrian .
+the restaurant boasts old wooden booths , , showing the to pedestrians .
+the restaurants , old wooden bulwarks , , showing the to pedestrians .
+-- No.  4
+the item be a albert and onion , .
+the item is an albert and onions , .
+the which is a , and onions , .
+-- No.  5
+the food be inexpensive dinner be the .
+the food is inexpensive dinner being the .
+the food is . it is the .
+-- No.  6
+shorty location sell hot dog a .
+shorty location sells hot dogs a .
+. he sold hot dogs a .
+-- No.  7
+the chili be especially favor by customer .
+the chili is especially favored by customers .
+the . being especially favored resuming the .
+-- No.  8
+the recipe take hour to .
+the recipe takes hours to .
+the . taking hours to .
+-- No.  9
+american soldier serve abroad all receive shipment of from they mother .
+american soldiers serving abroad all received shipments of from their mothers .
+american soldiers serving abroad equator received a of from their mothers .
+-- No.  10
+the hot dog have change over from location in .
+the hot dogs has changed over from locations in .
+the hot dogs have changed over from . in .
+-- No.  11
+the gazette say that name command a many business only of develop .
+the gazette says that name commands a many businesses only of developing .
+the , saying that name commanded a many adorned only of develops .
+
+
+-----------
+Accuracy on HMM predicteur: 0.736572112937044 
+it spend 4h for 338 sentences.
+
+max_lemm_sent: 59
+Total of states: 16200
+Accuracy on HMM predicteur: 2528 / 3539 = 0.7143260808137892
+it spend 4h for 338 sentences.
+
+
+Accuracy on HMM predicteur after add cuted words: 7776 / 8787 = 0.8849436667804712

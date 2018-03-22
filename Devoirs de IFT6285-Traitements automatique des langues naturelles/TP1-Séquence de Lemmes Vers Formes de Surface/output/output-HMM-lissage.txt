@@ -1,0 +1,517 @@
+Tokens of train_lemm_tacy_doc:  401177
+Tokens of train_surf_tacy_doc:  401177
+Tokens of test_lemm_tacy_doc:  154050
+Tokens of test_surf_tacy_doc:  154050
+total sentence of train surf: 18234
+total sentence of train lemm: 18234
+total sentence of test surf: 7265
+total sentence of test lemm: 7265
+size of train lemm 2grams bag: 177551
+size of train lemm 1grams bag: 25897
+size of train surf 2grams bag: 191779
+size of train surf 1grams bag: 30139
+size of test lemm 1grams bag: 14928
+size of test surf 1grams bag: 17134
+<class 'dict'> 177551
+<class 'dict'> 177551
+. the 3031
+oxy - fuel combustion be the process of burn a fuel use pure oxygen instead of air as the primary oxidant .
+since the nitrogen component of air be not heat , fuel consumption be reduce , and higher flame temperature be possible .
+historically , the primary use of oxy - fuel combustion have be in welding and cutting of metal , especially steel , since oxy - fuel allow for higher flame temperature than can be achieve with a air - fuel flame .
+there be currently research be do in firing fossil - fueled power plant with a oxygen - enriched gas mix instead of air .
+almost all of the nitrogen be remove from input air , yield a stream that be approximately 95 % oxygen .
+fire with pure oxygen would result in too high a flame temperature , so the mixture be dilute by mix with recycled flue gas , or stage combustion .
+the recycled flue gas can also be use to carry fuel into the boiler and ensure adequate convective heat transfer to all boiler area .
+oxy - fuel combustion produce approximately 75 % less flue gas than air fuel combustion and produce exhaust consist primarily of co 2 and h 2 o ( see figure ) .
+the justification for use oxy - fuel be to produce a co 2 rich flue gas ready for sequestration .
+economically speak this method cost more than a traditional air - fired plant .
+the main problem have be separate oxygen from the air .
+is be  3951
+(you be)  15
+(he go)  16
+p(be|you)= 0.11029411764705882
+p(cat|a)= 0.000329453107840984
+p(am|i)= 0.03773584905660377
+p(be-o|are-s)= 1.0
+p(.-o|.-s)= 1.0
+test of Accuracy raw: 358024 / 419314 = 0.8538326886295234
+test of Accuracy spacy: 339887 / 419411 = 0.8103912391425118
+size of bi-grammes:  177505
+you be ->  are
+--Model Bi-gramms predicteur predict on test data:---
+-- NO. 0
+shorty s lunch be a washington , pennsylvania - based hot dog lunch counter .
+shorty s lunch is a washington , pennsylvania - based hot dog lunch counter .
+shorty s lunch be a washington , pennsylvania - based hot dogs lunch counter .
+-- NO. 1
+a `` local landmark , shorty s have be own by the alexas family since the 1930 s .
+a `` local landmark , shorty s has been owned by the alexas family since the 1930 s .
+a `` local landmark , shorty s have been owned by the alexas family since the 1930 s .
+-- NO. 2
+it have two location , include the main facility on west chestnut street in washington , as well as in canton .
+it has two locations , including the main facility on west chestnut street in washington , as well as in canton .
+it has two location , including the main facility on west chestnut street in washington , as well as in canton .
+-- NO. 3
+the main restaurant boast old wooden booth , a dining counter , as well a large storefront , show the grill to pedestrian .
+the main restaurant boasts old wooden booths , a dining counter , as well a large storefront , showing the grill to pedestrians .
+the main restaurant boast old wooden booth , a dining counter , as well an large storefront , showing the grill to pedestrian .
+-- NO. 4
+the trademark menu item be a albert s frank with chili , mustard and onion , as well as fries with gravy .
+the trademark menu item is an albert s frank with chili , mustard and onions , as well as fries with gravy .
+the trademark menu item be a albert s frank with chili , mustard and onion , as well as fries with gravy .
+-- NO. 5
+the food be inexpensive , with the hot beef dinner be the most expensive menu item at $ 5 .
+the food is inexpensive , with the hot beef dinner being the most expensive menu item at $ 5 .
+the food is inexpensive , with the hot beef dinner be the most expensive menu item at $ 5 .
+-- NO. 6
+shorty s main location sell 600 - 700 hot dog a day .
+shorty s main location sells 600 - 700 hot dogs a day .
+shorty s main location sell 600 - 700 hot dogs a day .
+-- NO. 7
+the chili be especially favor by customer .
+the chili is especially favored by customers .
+the chili be especially favor by customer .
+-- NO. 8
+the secret recipe take 4 hour to prepare each 7 to 10 gallon batch .
+the secret recipe takes 4 hours to prepare each 7 to 10 gallon batch .
+the secret recipe take 4 hours to prepare each 7 to 10 gallon batch .
+-- NO. 9
+american soldier serve abroad in england , germany , japan , and vietnam have all receive shipment of shorty s chili in the mail from they mother .
+american soldiers serving abroad in england , germany , japan , and vietnam have all received shipments of shorty s chili in the mail from their mothers .
+american soldiers serving abroad in england , germany , japan , and vietnam had all receive shipment of shorty s chili in the mail from their mother .
+-- NO. 10
+the favored supplier of the hot dog have change over time from location in germantown , johnstown , and green valley packing in taylorstown .
+the favored supplier of the hot dogs has changed over time from locations in germantown , johnstown , and green valley packing in taylorstown .
+the favored supplier of the hot dogs have changed over time from location in germantown , johnstown , and green valley packing in taylorstown .
+-- NO. 11
+the pittsburgh post - gazette say that `` the shorty s name command a customer loyalty many business only dream of develop .
+the pittsburgh post - gazette says that `` the shorty s name commands a customer loyalty many businesses only dream of developing .
+the pittsburgh post - gazette say that `` the shorty s name command a customer loyalty many business only dream of develop .
+-- NO. 12
+that customer loyalty extend to former resident , who make a point to return to shorty s when they be in town , especially during the holiday .
+that customer loyalty extends to former residents , who make a point to return to shorty s when they re in town , especially during the holidays .
+that customer loyalty extend to former resident , who made a point to return to shorty s when they were in town , especially during the holiday .
+-- NO. 13
+the observer - reporter describe shorty s as have a `` local brand recognition that a lot of company can only dream about and that a book could be write on the restaurant .
+the observer - reporter describes shorty s as having a `` local brand recognition that a lot of companies can only dream about and that a book could be written on the restaurant .
+the observer - reporter describe shorty s as having a `` local brand recognition that a lot of companies can only dream about and that a book could be written on the restaurants .
+-- NO. 14
+a associate professor of entrepreneurship at the nearby washington & jefferson college say that the customer loyalty and business model represent `` almost a case study for a franchise class .
+an associate professor of entrepreneurship at the nearby washington & jefferson college said that the customer loyalty and business model represents `` almost a case study for a franchising class .
+a associate professor of entrepreneurship at the nearby washington & jefferson college say that the customer loyalty and business model represent `` almost a case study for a franchise class .
+-- NO. 15
+a common belief among customer be that the secret to shorty s reside within the grill , with many believe that it remain the original from the 1930 s .
+a common belief among customers is that the secret to shorty s resides within the grill , with many believing that it remains the original from the 1930 s .
+a common belief among customer is that the secret to shorty s reside within the grill , with many believe that it remained the original from the 1930 s .
+-- NO. 16
+however , when the original grilltop malfunction in the 1980 s , the custom craft steel replacement be install under the cover of night , no one notice .
+however , when the original grilltop malfunctioned in the 1980 s , the custom crafted steel replacement was installed under the cover of night , no one noticed .
+however , when the original grilltop malfunction in the 1980 s , the customs craft steel replacement is installed under the cover of night , no one notice .
+-- NO. 17
+documentarian rick sebak regret not be able to profile shorty s in he hour - long documentary on hot dog shop , a hot dog program , say that `` there be no other place like it .
+documentarian rick sebak regretted not being able to profile shorty s in his hour - long documentary on hot dog shops , a hot dog program , saying that `` there s no other place like it .
+documentarian rick sebak regret not be able to profile shorty s in his hour - long documentary on hot dogs shop , a hot dogs program , saying that `` there are no other places like it .
+-- NO. 18
+they have not change a thing in there since the place openend in the late 1930 s .
+they have nt changed a thing in there since the place openend in the late 1930 s .
+they had not change a thing in there since the place openend in the late 1930 s .
+-- NO. 19
+that be what be great about shorty s .
+that s what s great about shorty s .
+that is what is great about shorty s .
+-- NO. 20
+it have a high funk factor .
+it has a high funk factor .
+it has a high funk factor .
+-- NO. 21
+photograph of shorty s have be sell as fundraiser for the citizens library in washington .
+photographs of shorty s have been sold as fundraisers for the citizens library in washington .
+photograph of shorty s have been sold as fundraiser for the citizens library in washington .
+-- NO. 22
+in 1993 , shorty s be recognize by the observer - reporter for raise fund for the free care fund at children s hospital of pittsburgh .
+in 1993 , shorty s was recognized by the observer - reporter for raising funds for the free care fund at children s hospital of pittsburgh .
+in 1993 , shorty s is recognized by the observer - reporter for raise funds for the free care fund at children s hospital of pittsburgh .
+-- NO. 23
+the shop have claim a wide variety of clientele , range from judge to tex ritter .
+the shop has claims a wide variety of clientele , ranging from judges to tex ritter .
+the shop have claimed a wide variety of clientele , ranging from judge to tex ritter .
+-- NO. 24
+during the 2006 pennsylvania gubernatorial election , republican candidate lynn swann use shorty s as a campaign stop .
+during the 2006 pennsylvania gubernatorial election , republican candidate lynn swann used shorty s as a campaign stop .
+during the 2006 pennsylvania gubernatorial election , republican candidate lynn swann use shorty s as a campaign stops .
+-- NO. 25
+in 2003 , plan for the crossroads project , a redevelopment effort in downtown washington , pennsylvania , reveal that developer , millcraft industries , and the washington redevelopment authority intend to use several `` blighted city block to build a private business development , include outlet similar to grove city premium outlet , loft and apartment design to attract student from washington & jefferson college , and a 1 , 200 space parking garage .
+in 2003 , plans for the crossroads project , a redevelopment effort in downtown washington , pennsylvania , revealed that developer , millcraft industries , and the washington redevelopment authority intended to use several `` blighted city blocks to build a private business development , including outlets similar to grove city premium outlets , lofts and apartments designed to attract students from washington & jefferson college , and a 1 , 200 space parking garage .
+in 2003 , plans for the crossroads project , a redevelopment effort in downtown washington , pennsylvania , revealing that developer , millcraft industries , and the washington redevelopment authority intend to use several `` blighted city block to build a private business development , including outlet similar to grove city premium outlet , loft and apartment design to attract students from washington & jefferson college , and a 1 , 200 space parking garage .
+-- NO. 26
+all tell , the project would have be as ambitious as the nearby southpointe development .
+all told , the project would have been as ambitious as the nearby southpointe development .
+all tell , the project would have been as ambitious as the nearby southpointe development .
+-- NO. 27
+the $ 100 million project would have require the demolition of several building through eminent domain , include the building housing shorty s original 34 chestnut street location , and would have significant tax break through a tax increment financing program .
+the $ 100 million project would have required the demolition of several buildings through eminent domain , including the building housing shorty s original 34 chestnut street location , and would have significant tax breaks through a tax increment financing program .
+the $ 100 million project would have require the demolition of several building through eminent domain , including the building housing shorty s original 34 chestnut street location , and would have significant tax break through a tax increment financing program .
+-- NO. 28
+in spite of offer by the developer to assist with move cost , the alexas family refuse to move , gather 23 , 860 signature in a petition to keep they current location , a amazing number in a city with a population of 16 , 000 .
+in spite of offers by the developer to assist with moving costs , the alexas family refused to move , gathering 23 , 860 signatures in a petition to keep their current location , an amazing number in a city with a population of 16 , 000 .
+in spite of offer by the developer to assist with move cost , the alexas family refuse to move , gather 23 , 860 signature in a petition to keep them current location , a amazing number in a city with a population of 16 , 000 .
+-- NO. 29
+they receive support of local official , include the town s mayor .
+they received support of local officials , including the town s mayor .
+they receive support of local official , including the town s mayor .
+-- NO. 30
+the effort to keep shorty s open in the face of pressure for developer have inspire other small business owner , include shelley s pike inn in houston , pennsylvania .
+the efforts to keep shorty s open in the face of pressure for developers has inspired other small business owners , including shelley s pike inn in houston , pennsylvania .
+the efforts to keep shorty s open in the face of pressure for developer have inspired others small businesses owner , including shelley s pike inn in houston , pennsylvania .
+
+
+Accuracy raw on test data: 138451 / 161271 = 0.8584990481859727
+Accuracy of bi-gramms predicteur on test data:
+137475 / 154050 = 0.896571929380624
+The Bi-grammes took a total of 3.098 minutes to do training and prediction.
+
+
+
+
+-----HMM--sans-lissage----
+KeyboardInterrupt: 
+start_probability:  [1.26275004e-04 1.65898006e-05 1.65898006e-05 ... 1.65898006e-05
+ 1.65898006e-05 1.65898006e-05]
+'\n# Laplace probablity smooth:\n'
+'\n# Laplace probablity smooth:\n'
+max_lemm_sent: 112
+max_surf_sent: 112
+train_lemm_vectors, len:  18234 [1]: [21440 23278 16351  5561 16690  1539  3075 16476 10874     8  9640  5801
+  3075 19430     8  1909 11067  9197 23142  3075 18268    10]
+since the nitrogen component of air be not heat , fuel consumption be reduce , and higher flame temperature be possible .
+test_lemm_vectors, len:  7265 [2]: [12387 10801 24037 14004     8 11814 23278 14382  8776 16785 25199  4913
+ 22358 11770 25075     8  2389 25173  2389 11770  4369    10]
+it have two location , include the main facility on west chestnut street in washington , as well as in canton .
+--- Model HMM predicteur predict on train data:---
+--- Model HMM predicteur predict on test data: ---
+/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/hmmlearn/hmm.py:405: RuntimeWarning: divide by zero encountered in log
+  return np.log(self.emissionprob_)[:, np.concatenate(X)].T
+/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/hmmlearn/base.py:452: RuntimeWarning: divide by zero encountered in log
+  np.log(self.transmat_), framelogprob)
+-- No.  0
+shorty s lunch be a washington , pennsylvania - based hot dog lunch counter .
+shorty s lunch is a washington , pennsylvania - based hot dog lunch counter .
+! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+-- No.  1
+a `` local landmark , shorty s have be own by the alexas family since the 1930 s .
+a `` local landmark , shorty s has been owned by the alexas family since the 1930 s .
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+-- No.  2
+it have two location , include the main facility on west chestnut street in washington , as well as in canton .
+it has two locations , including the main facility on west chestnut street in washington , as well as in canton .
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+-- No.  3
+the main restaurant boast old wooden booth , a dining counter , as well a large storefront , show the grill to pedestrian .
+the main restaurant boasts old wooden booths , a dining counter , as well a large storefront , showing the grill to pedestrians .
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+-- No.  4
+the trademark menu item be a albert s frank with chili , mustard and onion , as well as fries with gravy .
+the trademark menu item is an albert s frank with chili , mustard and onions , as well as fries with gravy .
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+-- No.  5
+the food be inexpensive , with the hot beef dinner be the most expensive menu item at $ 5 .
+the food is inexpensive , with the hot beef dinner being the most expensive menu item at $ 5 .
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+-- No.  6
+shorty s main location sell 600 - 700 hot dog a day .
+shorty s main location sells 600 - 700 hot dogs a day .
+! ! ! ! ! ! ! ! ! ! ! ! !
+-- No.  7
+the chili be especially favor by customer .
+the chili is especially favored by customers .
+! ! ! ! ! ! ! !
+
+
+Accuracy on HMM predicteur: 0 / 144 = 0.0
+The HMM took a total of 75.044 minutes to do training and prediction.
+
+
+
+-----HMM---lissage----
+start_probability:  [1.26275004e-04 1.65898006e-05 1.65898006e-05 ... 1.65898006e-05
+ 1.65898006e-05 1.65898006e-05]
+transition_probability [[3.92322761e-02 1.65898006e-05 1.65898006e-05 ... 1.65898006e-05
+  1.65898006e-05 1.65898006e-05]
+ [1.65898006e-05 1.65898006e-05 1.65898006e-05 ... 1.65898006e-05
+  1.65898006e-05 1.65898006e-05]
+ [1.65898006e-05 1.65898006e-05 1.65898006e-05 ... 1.65898006e-05
+  1.65898006e-05 1.65898006e-05]
+ ...
+ [1.65898006e-05 1.65898006e-05 1.65898006e-05 ... 1.65898006e-05
+  1.65898006e-05 1.65898006e-05]
+ [1.65898006e-05 1.65898006e-05 1.65898006e-05 ... 1.65898006e-05
+  1.65898006e-05 1.65898006e-05]
+ [1.65898006e-05 1.65898006e-05 1.65898006e-05 ... 1.65898006e-05
+  1.65898006e-05 1.65898006e-05]]
+emission_probability [[5.00019307e-01 1.93072557e-05 1.93072557e-05 ... 1.93072557e-05
+  1.93072557e-05 1.93072557e-05]
+ [1.93072557e-05 5.00019307e-01 1.93072557e-05 ... 1.93072557e-05
+  1.93072557e-05 1.93072557e-05]
+ [1.93072557e-05 1.93072557e-05 5.00019307e-01 ... 1.93072557e-05
+  1.93072557e-05 1.93072557e-05]
+ ...
+ [1.93072557e-05 1.93072557e-05 1.93072557e-05 ... 5.00019307e-01
+  1.93072557e-05 1.93072557e-05]
+ [1.93072557e-05 1.93072557e-05 1.93072557e-05 ... 1.93072557e-05
+  5.00019307e-01 1.93072557e-05]
+ [1.93072557e-05 1.93072557e-05 1.93072557e-05 ... 1.93072557e-05
+  1.93072557e-05 5.00019307e-01]]
+
+
+max_lemm_sent: 112
+max_surf_sent: 112
+
+train_lemm_vectors, len:  18234 [1]: [21440 23278 16351  5561 16690  1539  3075 16476 10874     8  9640  5801
+  3075 19430     8  1909 11067  9197 23142  3075 18268    10]
+since the nitrogen component of air be not heat , fuel consumption be reduce , and higher flame temperature be possible .
+test_lemm_vectors, len:  7265 [2]: [12387 10801 24037 14004     8 11814 23278 14382  8776 16785 25199  4913
+ 22358 11770 25075     8  2389 25173  2389 11770  4369    10]
+it have two location , include the main facility on west chestnut street in washington , as well as in canton .
+--- Model HMM predicteur predict on train data:---
+--- Model HMM predicteur predict on test data: ---
+-- No.  0
+shorty s lunch be a washington , pennsylvania - based hot dog lunch counter .
+shorty s lunch is a washington , pennsylvania - based hot dog lunch counter .
+. s mascot is a washington , pennsylvania - based hot dogs lunch counters .
+-- No.  1
+a `` local landmark , shorty s have be own by the alexas family since the 1930 s .
+a `` local landmark , shorty s has been owned by the alexas family since the 1930 s .
+a `` local landmark , . s have been owned by the . disorganized since the 1930 s .
+-- No.  2
+it have two location , include the main facility on west chestnut street in washington , as well as in canton .
+it has two locations , including the main facility on west chestnut street in washington , as well as in canton .
+it has two locations , including the main facilities on west fourteenth street in washington , as well as in canton .
+-- No.  3
+the main restaurant boast old wooden booth , a dining counter , as well a large storefront , show the grill to pedestrian .
+the main restaurant boasts old wooden booths , a dining counter , as well a large storefront , showing the grill to pedestrians .
+the main restaurant boasts a wooden booth , a dining room , as well a large . , showing the order to pedestrians .
+-- No.  4
+the trademark menu item be a albert s frank with chili , mustard and onion , as well as fries with gravy .
+the trademark menu item is an albert s frank with chili , mustard and onions , as well as fries with gravy .
+the u . it is an individual s , with russia , . and onions , as well as freeware with a .
+-- No.  5
+the food be inexpensive , with the hot beef dinner be the most expensive menu item at $ 5 .
+the food is inexpensive , with the hot beef dinner being the most expensive menu item at $ 5 .
+the food s . , with the hot beef cattle being the most expensive . while at $ 5 .
+-- No.  6
+shorty s main location sell 600 - 700 hot dog a day .
+shorty s main location sells 600 - 700 hot dogs a day .
+. s main model sold 600 - 700 hot dogs a day .
+-- No.  7
+the chili be especially favor by customer .
+the chili is especially favored by customers .
+the area is especially favor generic synonyms .
+-- No.  8
+the secret recipe take 4 hour to prepare each 7 to 10 gallon batch .
+the secret recipe takes 4 hours to prepare each 7 to 10 gallon batch .
+the u . took 4 hours to prepare the 7 to 10 gallon . .
+-- No.  9
+american soldier serve abroad in england , germany , japan , and vietnam have all receive shipment of shorty s chili in the mail from they mother .
+american soldiers serving abroad in england , germany , japan , and vietnam have all received shipments of shorty s chili in the mail from their mothers .
+american soldiers serving abroad in england , germany , japan , and vietnam had been receiving shipment of . s . in the name from their mothers .
+-- No.  10
+the favored supplier of the hot dog have change over time from location in germantown , johnstown , and green valley packing in taylorstown .
+the favored supplier of the hot dogs has changed over time from locations in germantown , johnstown , and green valley packing in taylorstown .
+the united states of the hot dogs have changed over time from location in . , . , and the valley . in . .
+-- No.  11
+the pittsburgh post - gazette say that `` the shorty s name command a customer loyalty many business only dream of develop .
+the pittsburgh post - gazette says that `` the shorty s name commands a customer loyalty many businesses only dream of developing .
+the pittsburgh post - gazette saying that `` the . s name commanded a customer loyalties towards the only dream of develops .
+-- No.  12
+that customer loyalty extend to former resident , who make a point to return to shorty s when they be in town , especially during the holiday .
+that customer loyalty extends to former residents , who make a point to return to shorty s when they re in town , especially during the holidays .
+that customers is extended to former resident , who made a point to return to . s when they are in town , especially during the holiday .
+-- No.  13
+the observer - reporter describe shorty s as have a `` local brand recognition that a lot of company can only dream about and that a book could be write on the restaurant .
+the observer - reporter describes shorty s as having a `` local brand recognition that a lot of companies can only dream about and that a book could be written on the restaurant .
+the semi - bradbury described . s as having a `` local brands in that a lot of companies can only dream about and that a book could be write on the restaurants .
+-- No.  14
+a associate professor of entrepreneurship at the nearby washington & jefferson college say that the customer loyalty and business model represent `` almost a case study for a franchise class .
+an associate professor of entrepreneurship at the nearby washington & jefferson college said that the customer loyalty and business model represents `` almost a case study for a franchising class .
+an associate professor of entrepreneurship at the nearby acupunture & jefferson , saying that the customer service and business modelled on `` almost a case studied for a franchise classes .
+-- No.  15
+a common belief among customer be that the secret to shorty s reside within the grill , with many believe that it remain the original from the 1930 s .
+a common belief among customers is that the secret to shorty s resides within the grill , with many believing that it remains the original from the 1930 s .
+a common work among customers is that the secrets to . s residing within the city , with many believing that it remained the original from the 1930 s .
+-- No.  16
+however , when the original grilltop malfunction in the 1980 s , the custom craft steel replacement be install under the cover of night , no one notice .
+however , when the original grilltop malfunctioned in the 1980 s , the custom crafted steel replacement was installed under the cover of night , no one noticed .
+however , when the original maple leafs in the 1980 s , the customs crafted . replacement is installed under the cover of night , no one day .
+-- No.  17
+documentarian rick sebak regret not be able to profile shorty s in he hour - long documentary on hot dog shop , a hot dog program , say that `` there be no other place like it .
+documentarian rick sebak regretted not being able to profile shorty s in his hour - long documentary on hot dog shops , a hot dog program , saying that `` there s no other place like it .
+. rick jenks was not be able to profiles . s in his hour - long eulogium on hot dogs shops , a hot dogs program , saying that `` there are no other places like it .
+-- No.  18
+they have not change a thing in there since the place openend in the late 1930 s .
+they have nt changed a thing in there since the place openend in the late 1930 s .
+they had not change a things in there since the place . in the late 1930 s .
+-- No.  19
+that be what be great about shorty s .
+that s what s great about shorty s .
+that is what is located about . s .
+-- No.  20
+it have a high funk factor .
+it has a high funk factor .
+it has a high power factor .
+-- No.  21
+photograph of shorty s have be sell as fundraiser for the citizens library in washington .
+photographs of shorty s have been sold as fundraisers for the citizens library in washington .
+photographs of . s have been sold anytime . for the school libraries in washington .
+-- No.  22
+in 1993 , shorty s be recognize by the observer - reporter for raise fund for the free care fund at children s hospital of pittsburgh .
+in 1993 , shorty s was recognized by the observer - reporter for raising funds for the free care fund at children s hospital of pittsburgh .
+in 1993 , . s were recognized by the semi - known for raise funds for the free transfer funds for children s hospital behbud association .
+-- No.  23
+the shop have claim a wide variety of clientele , range from judge to tex ritter .
+the shop has claims a wide variety of clientele , ranging from judges to tex ritter .
+the university has claimed a wide variety of korea , ranging from dogteams to tex kerschen .
+-- No.  24
+during the 2006 pennsylvania gubernatorial election , republican candidate lynn swann use shorty s as a campaign stop .
+during the 2006 pennsylvania gubernatorial election , republican candidate lynn swann used shorty s as a campaign stop .
+during the 2006 pennsylvania gubernatorial election , republican candidate debates . using . s as a campaign stopped .
+-- No.  25
+in 2003 , plan for the crossroads project , a redevelopment effort in downtown washington , pennsylvania , reveal that developer , millcraft industries , and the washington redevelopment authority intend to use several `` blighted city block to build a private business development , include outlet similar to grove city premium outlet , loft and apartment design to attract student from washington & jefferson college , and a 1 , 200 space parking garage .
+in 2003 , plans for the crossroads project , a redevelopment effort in downtown washington , pennsylvania , revealed that developer , millcraft industries , and the washington redevelopment authority intended to use several `` blighted city blocks to build a private business development , including outlets similar to grove city premium outlets , lofts and apartments designed to attract students from washington & jefferson college , and a 1 , 200 space parking garage .
+in 2003 , plans for the crossroads projects , a collaborative effort in downtown washington , pennsylvania , revealed that year , . industries , and the washington redevelopment authority intends to use several `` motorway city block to build a private business developments , including a similar to grove city premium outlet , 000 and was designed to attracts students from bb & jefferson colleges , and a 1 , 200 space parking garage .
+-- No.  26
+all tell , the project would have be as ambitious as the nearby southpointe development .
+all told , the project would have been as ambitious as the nearby southpointe development .
+all telling , the project would have been as well as the nearby . development .
+-- No.  27
+the $ 100 million project would have require the demolition of several building through eminent domain , include the building housing shorty s original 34 chestnut street location , and would have significant tax break through a tax increment financing program .
+the $ 100 million project would have required the demolition of several buildings through eminent domain , including the building housing shorty s original 34 chestnut street location , and would have significant tax breaks through a tax increment financing program .
+the $ 100 million project would have requires the demolition of several other through maritime domain , including the building housing . s original 34 th street locations , and would had significant oft breaking through a tax . the program .
+-- No.  28
+in spite of offer by the developer to assist with move cost , the alexas family refuse to move , gather 23 , 860 signature in a petition to keep they current location , a amazing number in a city with a population of 16 , 000 .
+in spite of offers by the developer to assist with moving costs , the alexas family refused to move , gathering 23 , 860 signatures in a petition to keep their current location , an amazing number in a city with a population of 16 , 000 .
+in spite of offered by the developer to assist with moves down , the . families refusing to move , gather 23 , . . in an attempt to keep their current location , a large numbers in a city with a population of 16 , 000 .
+-- No.  29
+they receive support of local official , include the town s mayor .
+they received support of local officials , including the town s mayor .
+they receive support of local officials , including the town s disease .
+-- No.  30
+the effort to keep shorty s open in the face of pressure for developer have inspire other small business owner , include shelley s pike inn in houston , pennsylvania .
+the efforts to keep shorty s open in the face of pressure for developers has inspired other small business owners , including shelley s pike inn in houston , pennsylvania .
+the efforts to kept . s opened in the face of pressure for falconry has inspire others small businesses owner , including . s pike inn in houston , pennsylvania .
+-- No.  31
+while the effort to raze shorty s appear to have stall , the alexas family have begin to expand into other location , to protect themselves from future redevelopment effort .
+while the effort to raze shorty s appears to have stalled , the alexas family has begun to expand into other locations , to protect themselves from future redevelopment efforts .
+while the efforts to help . s appears to have stalls , the . family had begun to expanded into other locations , to protect themselves from future tractive effort .
+-- No.  32
+they have pursue a franchise effort to place store in southpointe shopping plaza , downtown canonsburg , and franklin township .
+they have pursued a franchising effort to place stores in southpointe shopping plaza , downtown canonsburg , and franklin township .
+they had pursuing a collaborative effort to place stored in . shopping plazas , inc . , and franklin township .
+-- No.  33
+the owner of the washington mall inform the alexas brother in late 2004 that they would have to vacate in order for the mall to be turn into a strip shopping center .
+the owners of the washington mall informed the alexas brothers in late 2004 that they would have to vacate in order for the mall to be turned into a strip shopping center .
+the owner of the washington mall informing the . . in late goals that they would have to compete in order for the order to be turned into a stripped shopping center .
+-- No.  34
+to replace this store , the alexas family build another location in canton township .
+to replace this store , the alexas family built another location in canton township .
+to replace the stores , the . he built a location in kitley township .
+-- No.  35
+saint mary s cathedral , better know as lugo cathedral , be a roman catholic cathedral and basilica in lugo , galicia , north - western spain , build start from the early 12 th century .
+saint mary s cathedral , better known as lugo cathedral , is a roman catholic cathedral and basilica in lugo , galicia , north - western spain , built starting from the early 12 th century .
+saint mary s cathedral , better known as . cathedrals , is a roman catholic church and . in . , however , north - western spain , built started from the early 12 th century .
+-- No.  36
+begun in romanesque style , during its construction it receive gothic , baroque and neoclassicist element .
+begun in romanesque style , during its construction it received gothic , baroque and neoclassicist elements .
+. in . style , during its construction it received 59 , . and . elements .
+-- No.  37
+a first church exist in the site from 755 , but in the early 12 th century its condition be such that bishop peter iii , in 1129 , commission the local master raimundo a new edifice in the current architectonical style .
+a first church existed in the site from 755 , but in the early 12 th century its conditions were such that bishop peter iii , in 1129 , commissioned the local master raimundo a new edifice in the current architectonical style .
+a first church exists in the site from ipswich , but in the early 12 th century appalling conditions are such that bishops , iii , in . , and the local masters . a new york in the u . style .
+-- No.  38
+this romanesque structure be complete in 1273 .
+this romanesque structure was completed in 1273 .
+this . structure was completed in . .
+-- No.  39
+later renovation and restoration add element in other style , such as the renaissance retablo at the high altar , destroy in the 1755 lisbon earthquake , and of which today fragment be house in the church .
+later renovations and restorations added elements in other styles , such as the renaissance retablo at the high altar , destroyed in the 1755 lisbon earthquake , and of which today fragments are housed in the church .
+later renovation and iranians added element in other style , such as the u . at the high school , destroyed in the 1755 - earthquake , and of which today fragment was housed in the church .
+-- No.  40
+the cathedral receive from the pope the privilege to permanently expose the holy sacrament .
+the cathedral received from the pope the privilege to permanently expose the holy sacrament .
+the cathedral receive from the pope thes surveys to permanently exposes the holy man .
+-- No.  41
+the cathedral be on the latin cross plan , with a length of 85 m .
+the cathedral is on the latin cross plan , with a length of 85 m .
+the area is on the sotheby cross plan , with a length of 130 m .
+-- No.  42
+it have a nave , cover by a barrel vault , and two aisle , with a ambulatory and five apse chapel .
+it has a nave , covered by a barrel vault , and two aisles , with an ambulatory and five apse chapels .
+it has a nave , covered by a barrels and , and two . , with a . and five calvary chapel .
+-- No.  43
+the triforium feature triple ogival mullioned window .
+the triforium features triple ogival mullioned windows .
+the . features amos . . windows .
+-- No.  44
+the apse house a calvary sculpture from a unknown date .
+the apse houses a calvary sculpture from an unknown date .
+the apse housed a spectrum ranging from an unknown date .
+-- No.  45
+the faade be a renaissance design by julin snchez bort , inspire to that propose by ventura rodrguez for the cathedral of pamplona .
+the faade is a renaissance design by julin snchez bort , inspired to that proposed by ventura rodrguez for the cathedral of pamplona .
+the area is a microsystems designed by . . . , inspired to that proposed by dr . for the cathedral of . .
+-- No.  46
+its construction be finish in the late 19 th century , with the completion of the two side tower .
+its construction was finished in the late 19 th century , with the completion of the two side towers .
+its construction was finished in the late 19 th century , with the completion of the two side towers .
+-- No.  47
+the northern entrance s narthex be in gothic style , date to 1510 - 1530 .
+the northern entrance s narthex is in gothic style , dating to 1510 - 1530 .
+the northern ireland s . was in gothic style , dated to . - . .
+-- No.  48
+internally show a star vault , it be form by three archivolt with a lintel show christ pantocrator and with a pinjante ( glove - shaped decorative pendant ) , the latter feature a depiction of the last supper of christ .
+internally showing a starred vault , it is formed by three archivolts with a lintel showing christ pantocrator and with a pinjante ( glove - shaped decorative pendant ) , the latter featuring a depiction of the last supper of christ .
+. showed a star trek , it was formed by dr . with a live shows christ . and with a . ( 3 - shaped decorative arts ) , the latter features a depiction of the last supper of christ .
+-- No.  49
+right to the entrance be the gothic torre vella ( bell tower ) , surmount by a renaissance top floor finish by gaspar de arce in 1580 .
+right to the entrance is the gothic torre vella ( bell tower ) , surmounted by a renaissance top floor finished by gaspar de arce in 1580 .
+right to the entrance is the u . . ( bell tower ) , followed by a dozen top floor finished by . c . in 2006 .
+-- No.  50
+the sacristy ( 1678 ) and the cloister ( 1714 ) be in baroque style , as well as the central chapel of the triforium ( 1726 ) .
+the sacristy ( 1678 ) and the cloister ( 1714 ) are in baroque style , as well as the central chapel of the triforium ( 1726 ) .
+the university ( . ) and the . ( uncredited ) is in . style , as well as the central chapel of the . ( uncredited ) .
+-- No.  51
+the chapel of st .
+the chapel of st .
+the chapel of st .
+-- No.  52
+froiln be in renaissance style , date to the 17 th century .
+froiln is in renaissance style , dating to the 17 th century .
+. was in renaissance style , dated to the 17 th century .
+-- No.  53
+notable be the choir , build by francisco de moure ( early 17 th century ) .
+notable is the choir , built by francisco de moure ( early 17 th century ) .
+it is the choir , built by francisco scaramanga . ( september 17 th century ) .
+-- No.  54
+surround channel be audio channel in surround sound multichannel audio .
+surround channels are audio channels in surround sound multichannel audio .
+surrounded channel are audio channel in the sound . c .
+-- No.  55
+they primarily serve to deliver ambience and diffuse sound in a film or music soundtrack .
+they primarily serve to deliver ambience and diffuse sounds in a film or music soundtrack .
+they currently serves to deliver power and . . in a filmed or music soundtrack .
+-- No.  56
+dolby stereo ( 1975 ) be the first standard cinema sound system use a single matrixed mono rear channel ( note disney s fantasound from the 1930 s use a surround channel ) .
+dolby stereo ( 1975 ) was the first standard cinema sound system using a single matrixed mono rear channel ( note disney s fantasound from the 1930 s used a surround channel ) .
+. . ( 1975 ) is the first standards web operating system used a single . . rear channels ( toon disney s . from the 1930 s using a clear channel ) .
+-- No.  57
+dolby surround ( 1982 ) be the first home audio system to use a rear channel .
+dolby surround ( 1982 ) was the first home audio system to use a rear channel .
+. p ( 1982 ) is the first homes or systems to use a clear channel .
+-- No.  58
+it and its successor , dolby pro logic ( 1987 ) , use a single rear surround channel , but often use two speaker connect in anti - phase or a dipole radiator , as show in the speaker configuration diagram to the right in gray .
+it and its successor , dolby pro logic ( 1987 ) , used a single rear surround channel , but often using two speakers connected in anti - phase or a dipole radiator , as shown in the speaker configuration diagram to the right in gray .
+it and its successor , . pro wrestling ( 1987 ) , using a single rears greycub channel , but often used to speakers . in anti - bains or a . however , as shown in the speaker configurations . to the right ore domain .
+
+
+Total of states: 30139
+Accuracy on HMM predicteur: 875 / 1399 = 0.6254467476769121
+The HMM took a total of 543.959 minutes to do training and prediction.

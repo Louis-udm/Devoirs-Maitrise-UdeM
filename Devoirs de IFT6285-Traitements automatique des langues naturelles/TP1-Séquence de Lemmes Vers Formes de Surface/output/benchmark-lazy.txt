@@ -1,0 +1,5 @@
+Lazy frequency
+1 fichier: 10 secondes
+10 fichiers 2 minutes
+100 fichiers 6 minutes
+500 fichiers 20 minutes
