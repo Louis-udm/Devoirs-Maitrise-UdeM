@@ -5,7 +5,7 @@
 # model-bi-gramms.py
 # @author Zhibin.LU
 # @created Fri Feb 23 2018 17:14:32 GMT-0500 (EST)
-# @last-modified Wed Mar 14 2018 19:11:45 GMT-0400 (EDT)
+# @last-modified Sat Mar 31 2018 16:20:11 GMT-0400 (EDT)
 # @website: https://louis-udm.github.io
 # # # #
 
@@ -49,6 +49,7 @@ def load_data(folder):
                 input_word = re.sub("([\?\!\~\&\=\[\]\{\}\<\>\(\)\_\-\+\/\.])", r" \1 ", input_word)
                 target_word = re.sub("([\?\!\~\&\=\[\]\{\}\<\>\(\)\_\-\+\/\.])", r" \1 ", target_word)
 
+                #1990s
                 pattern = re.compile(r'\d+s')
                 m1 = re.search(pattern, input_word)
                 m2 = re.search(pattern, target_word)
